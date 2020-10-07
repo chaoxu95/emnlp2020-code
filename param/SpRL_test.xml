@@ -1,0 +1,3206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpRL>
+    <SCENE>
+        <DOCNO>annotations/01/1060.eng</DOCNO>
+        <IMAGE>images/01/1060.jpg</IMAGE>
+        <SENTENCE id="s601" start="0" end="88">
+            <TEXT>behind it a bar with chairs and two people , and a bench with one person lying on it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s602" start="88" end="130">
+            <TEXT>upper level with doors and a blue rail .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1069.eng</DOCNO>
+        <IMAGE>images/01/1069.jpg</IMAGE>
+        <SENTENCE id="s603" start="130" end="344">
+            <TEXT>Interior view of a room with a large bed with red bedcovers , a white wooden desk and chair below a TV fixed in the corner , a white fridge and a glass door with a wooden frame leading onto a veranda and garden .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1071.eng</DOCNO>
+        <IMAGE>images/01/1071.jpg</IMAGE>
+        <SENTENCE id="s604" start="344" end="486">
+            <TEXT>a white bungalow with big windows , stairs to the left and the right , a neat lawn and flowers in front of the house and trees at the back .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s605" start="486" end="516">
+            <TEXT>blue sky in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1072.eng</DOCNO>
+        <IMAGE>images/01/1072.jpg</IMAGE>
+        <SENTENCE id="s606" start="516" end="614">
+            <TEXT>a white hostel with a large tree to its left and a gravel road in front of the wooden entrance .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1074.eng</DOCNO>
+        <IMAGE>images/01/1074.jpg</IMAGE>
+        <SENTENCE id="s607" start="614" end="721">
+            <TEXT>photo of an inner courtyard under a transparent roof , with a lawn and a large flower pot in the centre .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1075.eng</DOCNO>
+        <IMAGE>images/01/1075.jpg</IMAGE>
+        <SENTENCE id="s608" start="721" end="919">
+            <TEXT>interior view of a room containing a double bed with a blue and white chequered bedcover and a single bed with a brownish green bedcover , with a wooden night table and a bedside lamp in between .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s609" start="919" end="962">
+            <TEXT>light and dark brown tiles on the floor .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1079.eng</DOCNO>
+        <IMAGE>images/01/1079.jpg</IMAGE>
+        <SENTENCE id="s610" start="962" end="1115">
+            <TEXT>a green , three story building ( the upper two levels are fully visible ) with a cross on the flat roof and small windows with a white , wooden frame .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s611" start="1115" end="1163">
+            <TEXT>small red canopy above ground floor entrance .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1081.eng</DOCNO>
+        <IMAGE>images/01/1081.jpg</IMAGE>
+        <SENTENCE id="s612" start="1163" end="1271">
+            <TEXT>Aerial view of seven light brown houses with black roofs on a grassy slope , connected by paved pathways .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s613" start="1271" end="1298">
+            <TEXT>trees in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1084.eng</DOCNO>
+        <IMAGE>images/01/1084.jpg</IMAGE>
+        <SENTENCE id="s614" start="1298" end="1390">
+            <TEXT>Interior view of a room with white walls , divided into two parts by a small wooden rail .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s615" start="1390" end="1464">
+            <TEXT>there is a double bed , a night table and a bed lamp in the foreground .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s616" start="1464" end="1576">
+            <TEXT>there is a coffee table with a sofa and chairs around and pictures are hanging on the wall in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1085.eng</DOCNO>
+        <IMAGE>images/01/1085.jpg</IMAGE>
+        <SENTENCE id="s617" start="1576" end="1673">
+            <TEXT>a room with white walls , two single beds , a glass door with a wooden frame and red curtains .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s618" start="1673" end="1721">
+            <TEXT>there is a picture above the bed on the wall .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1086.eng</DOCNO>
+        <IMAGE>images/01/1086.jpg</IMAGE>
+        <SENTENCE id="s619" start="1721" end="1777">
+            <TEXT>a room with two single beds and a lamp above one bed .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s620" start="1777" end="1817">
+            <TEXT>half of the walls is covered by wood .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s621" start="1817" end="1877">
+            <TEXT>a table with two chairs at the back ( next to a window ) .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s622" start="1877" end="1913">
+            <TEXT>a vase with flowers on the table :</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1087.eng</DOCNO>
+        <IMAGE>images/01/1087.jpg</IMAGE>
+        <SENTENCE id="s623" start="1913" end="1993">
+            <TEXT>a room with white walls , two single beds with a night table in between them .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s624" start="1993" end="2099">
+            <TEXT>there is a lamp on the wall above one bed , a light switch next to it , and a phone on the night table .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s625" start="2099" end="2175">
+            <TEXT>further , there is a window with closed curtains at the back of the room .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1088.eng</DOCNO>
+        <IMAGE>images/01/1088.jpg</IMAGE>
+        <SENTENCE id="s626" start="2175" end="2302">
+            <TEXT>a photo of a room with white walls , two single beds with a night table in between and a picture on the wall above the beds .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1089.eng</DOCNO>
+        <IMAGE>images/01/1089.jpg</IMAGE>
+        <SENTENCE id="s627" start="2302" end="2351">
+            <TEXT>a bungalow made of red bricks with a red roof .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s628" start="2351" end="2439">
+            <TEXT>a neat lawn in front of the house , and lots of trees , bushes and flowers around it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s629" start="2439" end="2469">
+            <TEXT>a forest in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1090.eng</DOCNO>
+        <IMAGE>images/01/1090.jpg</IMAGE>
+        <SENTENCE id="s630" start="2469" end="2512">
+            <TEXT>exterior view of a three story building .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s631" start="2512" end="2686">
+            <TEXT>entrance and arched windows on ground floor , a coop with a rail , a balcony with several arches and columns on the second floor , balcony with columns on the third floor .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1091.eng</DOCNO>
+        <IMAGE>images/01/1091.jpg</IMAGE>
+        <SENTENCE id="s632" start="2686" end="2777">
+            <TEXT>Exterior view of a four story building , with large windows and a balcony at each level .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1092.eng</DOCNO>
+        <IMAGE>images/01/1092.jpg</IMAGE>
+        <SENTENCE id="s633" start="2777" end="2951">
+            <TEXT>front view of a brown , three story building with arches on ground level , large windows on the second level and three little towers with a window each on the third level .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1094.eng</DOCNO>
+        <IMAGE>images/01/1094.jpg</IMAGE>
+        <SENTENCE id="s634" start="2951" end="3087">
+            <TEXT>Front view of a light khaki house with two small windows , a huge painting on the left and an entrance on the right ( in the shade ) .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s635" start="3087" end="3158">
+            <TEXT>one person sitting on a bench in front of the house ( on the left ) .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s636" start="3158" end="3195">
+            <TEXT>large mountains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1096.eng</DOCNO>
+        <IMAGE>images/01/1096.jpg</IMAGE>
+        <SENTENCE id="s637" start="3195" end="3276">
+            <TEXT>white hostal with three levels and two large palm trees in front of the house .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s638" start="3276" end="3338">
+            <TEXT>sunchairs and umbrellas on the balcony of the second floor .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s639" start="3338" end="3392">
+            <TEXT>white wall in front of the house with an iron gate .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1098.eng</DOCNO>
+        <IMAGE>images/01/1098.jpg</IMAGE>
+        <SENTENCE id="s640" start="3392" end="3491">
+            <TEXT>a man in a black jacket and brown pants shovelling snow from the entrance ( with a red shovel ) .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s641" start="3491" end="3535">
+            <TEXT>behind him a white door , a large window .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1099.eng</DOCNO>
+        <IMAGE>images/01/1099.jpg</IMAGE>
+        <SENTENCE id="s642" start="3535" end="3574">
+            <TEXT>two story building with white walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s643" start="3574" end="3698">
+            <TEXT>three large window ( with hammocks in front of each the windows ) and large wooden doors next to them on the first floor .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s644" start="3698" end="3785">
+            <TEXT>large windows and doors on the second floor too , with a wooden rail on the balcony .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1100.eng</DOCNO>
+        <IMAGE>images/01/1100.jpg</IMAGE>
+        <SENTENCE id="s645" start="3785" end="3938">
+            <TEXT>a room with white walls , two wooden single beds , one with a blue blanket , the other one with a green , light pink and light purple striped blanket .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s646" start="3938" end="3992">
+            <TEXT>wooden door at the back , and a poster on the wall .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1101.eng</DOCNO>
+        <IMAGE>images/01/1101.jpg</IMAGE>
+        <SENTENCE id="s647" start="3992" end="4043">
+            <TEXT>a king size bed with a night table on each side .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s648" start="4043" end="4128">
+            <TEXT>phone on the right table , phone books ( yellow and white pages ) below the table .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s649" start="4128" end="4179">
+            <TEXT>picture and two lamps on the wall above the bed .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1103.eng</DOCNO>
+        <IMAGE>images/01/1103.jpg</IMAGE>
+        <SENTENCE id="s650" start="4179" end="4277">
+            <TEXT>a large wooden king-size bed with a white bedcover and a wooden night table with a phone on it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s651" start="4277" end="4315">
+            <TEXT>almost closed curtains at the back .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1106.eng</DOCNO>
+        <IMAGE>images/01/1106.jpg</IMAGE>
+        <SENTENCE id="s652" start="4315" end="4360">
+            <TEXT>Exterior shot of a large , brownish hotel .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1107.eng</DOCNO>
+        <IMAGE>images/01/1107.jpg</IMAGE>
+        <SENTENCE id="s653" start="4360" end="4394">
+            <TEXT>King-size bed with two pillows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s654" start="4394" end="4433">
+            <TEXT>night table with a lamp next to bed .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s655" start="4433" end="4464">
+            <TEXT>a chair in front of the bed .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s656" start="4464" end="4491">
+            <TEXT>curtains and a painting .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1108.eng</DOCNO>
+        <IMAGE>images/01/1108.jpg</IMAGE>
+        <SENTENCE id="s657" start="4491" end="4526">
+            <TEXT>Corner view of a large building .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s658" start="4526" end="4559">
+            <TEXT>front is mainly made of glass .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1109.eng</DOCNO>
+        <IMAGE>images/01/1109.jpg</IMAGE>
+        <SENTENCE id="s659" start="4559" end="4611">
+            <TEXT>a room with a king-size bed with purple bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s660" start="4611" end="4652">
+            <TEXT>window and white curtains on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1110.eng</DOCNO>
+        <IMAGE>images/01/1110.jpg</IMAGE>
+        <SENTENCE id="s661" start="4652" end="4697">
+            <TEXT>Front view of a grey , ten story building .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1111.eng</DOCNO>
+        <IMAGE>images/01/1111.jpg</IMAGE>
+        <SENTENCE id="s662" start="4697" end="4796">
+            <TEXT>a room with white walls , a wooden bed with a light brown blanket , bedside lamps on both sides .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s663" start="4796" end="4843">
+            <TEXT>a table with a flower pot in the foreground .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s664" start="4843" end="4885">
+            <TEXT>window with curtains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1113.eng</DOCNO>
+        <IMAGE>images/01/1113.jpg</IMAGE>
+        <SENTENCE id="s665" start="4885" end="4937">
+            <TEXT>narrow , multi-story building made of red bricks .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s666" start="4937" end="4970">
+            <TEXT>green plants on the balconies .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s667" start="4970" end="5010">
+            <TEXT>Argentinian flags above the entrance .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1114.eng</DOCNO>
+        <IMAGE>images/01/1114.jpg</IMAGE>
+        <SENTENCE id="s668" start="5010" end="5038">
+            <TEXT>a room with yellow walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s669" start="5038" end="5124">
+            <TEXT>a double-bed made of iron with a dark-yellow bedcover and two dark-yellow cushions .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s670" start="5124" end="5175">
+            <TEXT>a night table with a bedside lamp on both sides .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s671" start="5175" end="5228">
+            <TEXT>there is a window with curtains in the background .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s672" start="5228" end="5242">
+            <TEXT>red carpet .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s673" start="5242" end="5274">
+            <TEXT>oval table in the foreground .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1115.eng</DOCNO>
+        <IMAGE>images/01/1115.jpg</IMAGE>
+        <SENTENCE id="s674" start="5274" end="5384">
+            <TEXT>a grey and brown terraced house with a large , ornate entrance and two cars that are parked in front of it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1116.eng</DOCNO>
+        <IMAGE>images/01/1116.jpg</IMAGE>
+        <SENTENCE id="s675" start="5384" end="5411">
+            <TEXT>a room with beige walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s676" start="5411" end="5479">
+            <TEXT>two single beds with a white bedcover , a pillow and a lamp each .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s677" start="5479" end="5575">
+            <TEXT>there is a mirrow on the left , between the beds and on the left there is a of a night table .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s678" start="5575" end="5651">
+            <TEXT>and in the background on the right there is a window with white curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1117.eng</DOCNO>
+        <IMAGE>images/01/1117.jpg</IMAGE>
+        <SENTENCE id="s679" start="5651" end="5742">
+            <TEXT>a grey , multistorey building with arced windows and an entrance decorated with flowers .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1118.eng</DOCNO>
+        <IMAGE>images/01/1118.jpg</IMAGE>
+        <SENTENCE id="s680" start="5742" end="5800">
+            <TEXT>two bunk beds made of wood with multicoloured bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s681" start="5800" end="5841">
+            <TEXT>there is a blue cupboard between them .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s682" start="5841" end="5912">
+            <TEXT>in the background on the right there is a window with blue curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1119.eng</DOCNO>
+        <IMAGE>images/01/1119.jpg</IMAGE>
+        <SENTENCE id="s683" start="5912" end="6015">
+            <TEXT>a house with blue tiles , iron bars in front of the entrance and a large window on the second floor .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s684" start="6015" end="6053">
+            <TEXT>there is a supermarket on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1121.eng</DOCNO>
+        <IMAGE>images/01/1121.jpg</IMAGE>
+        <SENTENCE id="s685" start="6053" end="6159">
+            <TEXT>View of the courtyard of a brown house with white window frames and an iron rail and two angel statues .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s686" start="6159" end="6208">
+            <TEXT>there are canes in the foreground on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s687" start="6208" end="6254">
+            <TEXT>a man is sitting at a table on the balcony .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1122.eng</DOCNO>
+        <IMAGE>images/01/1122.jpg</IMAGE>
+        <SENTENCE id="s688" start="6254" end="6313">
+            <TEXT>a room with white and orange walls and a brown ornament .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s689" start="6313" end="6401">
+            <TEXT>there is a double bed made of iron , light brown pillows , white bedcover and towels .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s690" start="6401" end="6463">
+            <TEXT>a night table with a bedside lamp and a phone on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s691" start="6463" end="6517">
+            <TEXT>and a window with white curtains on the very right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1123.eng</DOCNO>
+        <IMAGE>images/01/1123.jpg</IMAGE>
+        <SENTENCE id="s692" start="6517" end="6586">
+            <TEXT>a house made of grey bricks with wooden pillars and red rooftiles .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s693" start="6586" end="6669">
+            <TEXT>there are trees on the left and right side in both the fore- and the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1124.eng</DOCNO>
+        <IMAGE>images/01/1124.jpg</IMAGE>
+        <SENTENCE id="s694" start="6669" end="6754">
+            <TEXT>a room with walls made of wood and a double bed with a colourful-striped bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s695" start="6754" end="6874">
+            <TEXT>there is a night table with a bedside lamp on the right , and a window with multicoloured curtains on the very right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1125.eng</DOCNO>
+        <IMAGE>images/01/1125.jpg</IMAGE>
+        <SENTENCE id="s696" start="6874" end="7011">
+            <TEXT>a wooden house with green window frames , a small balcony on the left and a green Unmittelbare Treffer corrugated sheet roof above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s697" start="7011" end="7073">
+            <TEXT>there are plants in front of the house and trees behind it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1126.eng</DOCNO>
+        <IMAGE>images/01/1126.jpg</IMAGE>
+        <SENTENCE id="s698" start="7073" end="7158">
+            <TEXT>a room with walls made of wood and a large window with white curtains on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s699" start="7158" end="7256">
+            <TEXT>there is a double bed with a red bedcover in the centre , with an orange mosquito net above it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1127.eng</DOCNO>
+        <IMAGE>images/01/1127.jpg</IMAGE>
+        <SENTENCE id="s700" start="7256" end="7351">
+            <TEXT>a white house with a thatched roof and a garden with a lot of vegetation behind a grey wall .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1128.eng</DOCNO>
+        <IMAGE>images/01/1128.jpg</IMAGE>
+        <SENTENCE id="s701" start="7351" end="7379">
+            <TEXT>a room with wooden walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s702" start="7379" end="7519">
+            <TEXT>in the corner on the right there is a bunk bed made of wood , another single bed made of wood on the left , and a night table in between .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1129.eng</DOCNO>
+        <IMAGE>images/01/1129.jpg</IMAGE>
+        <SENTENCE id="s703" start="7519" end="7631">
+            <TEXT>a roofed terrace with hammocks , wooden pillars , a wooden rail and a view onto the jungle in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1131.eng</DOCNO>
+        <IMAGE>images/01/1131.jpg</IMAGE>
+        <SENTENCE id="s704" start="7631" end="7717">
+            <TEXT>a room with white walls , a single bed made of wood with white and violet bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s705" start="7717" end="7798">
+            <TEXT>on the left and on the right there is a window with white and violet curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1132.eng</DOCNO>
+        <IMAGE>images/01/1132.jpg</IMAGE>
+        <SENTENCE id="s706" start="7798" end="7866">
+            <TEXT>a white , two-storey house with a big , blue Hotel Plaza writing .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s707" start="7866" end="7937">
+            <TEXT>there is an iron fence in front of the hous and a tree on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1133.eng</DOCNO>
+        <IMAGE>images/01/1133.jpg</IMAGE>
+        <SENTENCE id="s708" start="7937" end="8049">
+            <TEXT>a room made of wood with two king-size beds and a wooden night table in between with a burning lamp above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s709" start="8049" end="8058">
+            <TEXT>droop .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1134.eng</DOCNO>
+        <IMAGE>images/01/1134.jpg</IMAGE>
+        <SENTENCE id="s710" start="8058" end="8110">
+            <TEXT>a red house with a courtyard and a thatched roof .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s711" start="8110" end="8220">
+            <TEXT>there is a wooden fence , horses and grass in front of it and a snowcovered peak in the distant background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1136.eng</DOCNO>
+        <IMAGE>images/01/1136.jpg</IMAGE>
+        <SENTENCE id="s712" start="8220" end="8312">
+            <TEXT>a white house with brown rooftiles , a lot of glass on the right and on the second floor .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s713" start="8312" end="8346">
+            <TEXT>there are cactuses on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1137.eng</DOCNO>
+        <IMAGE>images/01/1137.jpg</IMAGE>
+        <SENTENCE id="s714" start="8346" end="8493">
+            <TEXT>a room with an orange and a white wall , two single beds made of wood with a multicoloured bedcover , white towels and a night table in between .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s715" start="8493" end="8631">
+            <TEXT>there is a couch chair and another night table with a lamp and a phone on the left , and a window with closed curtains behind the beds .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1138.eng</DOCNO>
+        <IMAGE>images/01/1138.jpg</IMAGE>
+        <SENTENCE id="s716" start="8631" end="8809">
+            <TEXT>the courtyard of a two-storey building made of red bricks , brown wooden doors and red rooftiles , a swimming pool in the centre with canvas chairs , chairs and potted plants .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s717" start="8809" end="8863">
+            <TEXT>there are palm leafs in the foreground on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1139.eng</DOCNO>
+        <IMAGE>images/01/1139.jpg</IMAGE>
+        <SENTENCE id="s718" start="8863" end="8996">
+            <TEXT>a room with white walls , two single beds made of wood and with golden bedcover , a night table in between and two lamps above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s719" start="8996" end="9112">
+            <TEXT>there are a commode , a mirror and a chair in the front on the left , and behind it a window with brown curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1140.eng</DOCNO>
+        <IMAGE>images/01/1140.jpg</IMAGE>
+        <SENTENCE id="s720" start="9112" end="9187">
+            <TEXT>a courtyard of a white building with a stone fountain and potted plants .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1142.eng</DOCNO>
+        <IMAGE>images/01/1142.jpg</IMAGE>
+        <SENTENCE id="s721" start="9187" end="9361">
+            <TEXT>a room with two single beds made of wood , a colourfully chequered bedcover , in between a night table with a phone and an alarm clock and a painting on the wall above it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1143.eng</DOCNO>
+        <IMAGE>images/01/1143.jpg</IMAGE>
+        <SENTENCE id="s722" start="9361" end="9457">
+            <TEXT>a white , five-storey building with greenish windows and a large Hotel Continental Park sign .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s723" start="9457" end="9504">
+            <TEXT>there is a penthouse on top of the building .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s724" start="9504" end="9554">
+            <TEXT>and there are a couple of trees in front of it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1144.eng</DOCNO>
+        <IMAGE>images/01/1144.jpg</IMAGE>
+        <SENTENCE id="s725" start="9554" end="9663">
+            <TEXT>a room with white walls , a double bed made of wood with a blue and yellow chequered bedcover and pillows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s726" start="9663" end="9776">
+            <TEXT>there is a carpet , a table and a night table with a lamp and a phone on the left , and a window on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1145.eng</DOCNO>
+        <IMAGE>images/01/1145.jpg</IMAGE>
+        <SENTENCE id="s727" start="9776" end="9934">
+            <TEXT>a courtyard with stairs on the left , a big palm tree in the centre , a few tables and chairs and a light brown house with red rooftiles in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1146.eng</DOCNO>
+        <IMAGE>images/01/1146.jpg</IMAGE>
+        <SENTENCE id="s728" start="9934" end="10070">
+            <TEXT>a room with two single beds made of wood and green , white and red bedcover , with a night table with a lamp on the left of each bed .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s729" start="10070" end="10099">
+            <TEXT>curtains on the very left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1147.eng</DOCNO>
+        <IMAGE>images/01/1147.jpg</IMAGE>
+        <SENTENCE id="s730" start="10099" end="10220">
+            <TEXT>A waiting hall with a green couch , black couch chairs , red columns , light and dark brown walls and red door frames .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1148.eng</DOCNO>
+        <IMAGE>images/01/1148.jpg</IMAGE>
+        <SENTENCE id="s731" start="10220" end="10290">
+            <TEXT>a room with white walls and a double bed with a dark blue bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s732" start="10290" end="10355">
+            <TEXT>there is a black night table with burning lamps on both sides .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s733" start="10355" end="10422">
+            <TEXT>there is also a telephone on the right and a closet on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1149.eng</DOCNO>
+        <IMAGE>images/01/1149.jpg</IMAGE>
+        <SENTENCE id="s734" start="10422" end="10493">
+            <TEXT>a white house with arches , columns and flower pots at the entrance .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s735" start="10493" end="10603">
+            <TEXT>there is another arched gate in red colour behind it , and an iron rail on the balcony of the second floor .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1152.eng</DOCNO>
+        <IMAGE>images/01/1152.jpg</IMAGE>
+        <SENTENCE id="s736" start="10603" end="10763">
+            <TEXT>a room with white walls , a double bed made of wood with a green bedcover with black and white decoration and night tables with a bedside lamp on both sides .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1153.eng</DOCNO>
+        <IMAGE>images/01/1153.jpg</IMAGE>
+        <SENTENCE id="s737" start="10763" end="10873">
+            <TEXT>a room with white walls , a double bed made of iron and with a red bedcover and a striped blanket above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s738" start="10873" end="10954">
+            <TEXT>night tables on both sides and with a phone and a plastic bottle on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1154.eng</DOCNO>
+        <IMAGE>images/01/1154.jpg</IMAGE>
+        <SENTENCE id="s739" start="10954" end="11047">
+            <TEXT>a white house with black window frames , stairs with iron rails and a few creeping plants .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1155.eng</DOCNO>
+        <IMAGE>images/01/1155.jpg</IMAGE>
+        <SENTENCE id="s740" start="11047" end="11142">
+            <TEXT>a very large room with a double bed made of wood with a night table and lamps on both sides .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s741" start="11142" end="11267">
+            <TEXT>there is a brown couch in the foreground , behind it a TV , a commode and in the far corner a round table with two chairs .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s742" start="11267" end="11368">
+            <TEXT>there is also a window with white curtains in the background , and there are pictures on the wall .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1156.eng</DOCNO>
+        <IMAGE>images/01/1156.jpg</IMAGE>
+        <SENTENCE id="s743" start="11368" end="11486">
+            <TEXT>a white two-storey building with a lot of columns , red rooftiles and a big swimming pool and a spa in front of it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s744" start="11486" end="11540">
+            <TEXT>there is a lawn on the right with large palm leafs .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1157.eng</DOCNO>
+        <IMAGE>images/01/1157.jpg</IMAGE>
+        <SENTENCE id="s745" start="11540" end="11574">
+            <TEXT>a large room with yellow walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s746" start="11574" end="11675">
+            <TEXT>there are two single beds with light blue bedcovers on the left , and two arm chairs on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s747" start="11675" end="11784">
+            <TEXT>the are a table , two red chairs , a potted plant and a window with light blue curtains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1158.eng</DOCNO>
+        <IMAGE>images/01/1158.jpg</IMAGE>
+        <SENTENCE id="s748" start="11784" end="11866">
+            <TEXT>the waiting hall of a yellow three-storey building with a lot of potted plants .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s749" start="11866" end="12039">
+            <TEXT>the single rooms are on the left , there is a table with lots of arm chairs around it , and behind it a fountain with even more plants , and glass wall in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1159.eng</DOCNO>
+        <IMAGE>images/01/1159.jpg</IMAGE>
+        <SENTENCE id="s750" start="12039" end="12169">
+            <TEXT>a room with white walls , a double bed made of wood with an orange and blue bedcover and a night table with a lamp to the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s751" start="12169" end="12258">
+            <TEXT>there is also a window with a wooden frame and a light brown curtain on the very left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1160.eng</DOCNO>
+        <IMAGE>images/01/1160.jpg</IMAGE>
+        <SENTENCE id="s752" start="12258" end="12338">
+            <TEXT>a white one-storey terraced house with windows behind bars and red rooftiles .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s753" start="12338" end="12398">
+            <TEXT>there is a tree behind a brownish red fence on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1166.eng</DOCNO>
+        <IMAGE>images/01/1166.jpg</IMAGE>
+        <SENTENCE id="s754" start="12398" end="12515">
+            <TEXT>a room with light yellow walls and two single beds made of wood in a row , with different multicoloured bedcovers .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1167.eng</DOCNO>
+        <IMAGE>images/01/1167.jpg</IMAGE>
+        <SENTENCE id="s755" start="12515" end="12642">
+            <TEXT>a table with four chairs around it on a couryard of a light yellow house plastered with red bricks and with a lot of plants .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s756" start="12642" end="12700">
+            <TEXT>there is a pink hammock in the background on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1168.eng</DOCNO>
+        <IMAGE>images/01/1168.jpg</IMAGE>
+        <SENTENCE id="s757" start="12700" end="12832">
+            <TEXT>a room with white walls and a single bed made of wood and with a night table on both sides , and an additional phone on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s758" start="12832" end="12929">
+            <TEXT>there is a green bedcover with white flowers on the bed , and a pink curtain on the very left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1169.eng</DOCNO>
+        <IMAGE>images/01/1169.jpg</IMAGE>
+        <SENTENCE id="s759" start="12929" end="12989">
+            <TEXT>a four-storey building with arched windows and balconies .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s760" start="12989" end="13109">
+            <TEXT>there are cars parking in front of the house , and behind it there is another two-storey building with red rooftiles .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1170.eng</DOCNO>
+        <IMAGE>images/01/1170.jpg</IMAGE>
+        <SENTENCE id="s761" start="13109" end="13228">
+            <TEXT>a room with white walls ( that are supported by wooden pillars ) and a multicoloured curtain in front of the window .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s762" start="13228" end="13371">
+            <TEXT>there is a single bed made of wood with a light blue blanket and a green mosquito net at the bed-head , and an open wooden door on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1171.eng</DOCNO>
+        <IMAGE>images/01/1171.jpg</IMAGE>
+        <SENTENCE id="s763" start="13371" end="13489">
+            <TEXT>a two-storey house made of wood and with a thatched roof , with balconies on both levels , wooden rails and stairs .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s764" start="13489" end="13605">
+            <TEXT>there is a little table with chairs , an canvas chair and lots of plants around it in the foreground on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1172.eng</DOCNO>
+        <IMAGE>images/01/1172.jpg</IMAGE>
+        <SENTENCE id="s765" start="13605" end="13757">
+            <TEXT>a room with a grey and turquoise wall and a single bed on the left and on the right , with a white mattress and a blue and grey blanket on top of it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s766" start="13757" end="13838">
+            <TEXT>there is also a sleeping bag on the bed on the left and a backpack next to it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s767" start="13838" end="13887">
+            <TEXT>there is a fireplace with some ash in between .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1175.eng</DOCNO>
+        <IMAGE>images/01/1175.jpg</IMAGE>
+        <SENTENCE id="s768" start="13887" end="14041">
+            <TEXT>a room with light pink walls , a double bed made of wood with a white bedcover with orange and pink squares , and a black and red carpet over the bead .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s769" start="14041" end="14127">
+            <TEXT>there is a door to the bathroom on the right , and before it a light brown commode .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1176.eng</DOCNO>
+        <IMAGE>images/01/1176.jpg</IMAGE>
+        <SENTENCE id="s770" start="14127" end="14299">
+            <TEXT>view of a white two- and three-storey building , with many columns , tables and potted plants on the ground level and turquoise rails on the balcony on the second floor .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1177.eng</DOCNO>
+        <IMAGE>images/01/1177.jpg</IMAGE>
+        <SENTENCE id="s771" start="14299" end="14390">
+            <TEXT>there are cars at the roofed entrance of a grey hotel with the writing Hilton Colon Quito</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1179.eng</DOCNO>
+        <IMAGE>images/01/1179.jpg</IMAGE>
+        <SENTENCE id="s772" start="14390" end="14525">
+            <TEXT>a very big , longish room with light blue walls , a double bed made of wood , with a night table and a ventilator in the background .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s773" start="14525" end="14642">
+            <TEXT>there are also two windows in the background , and two arm chairs , a coffee table and a mirrow in the foreground .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1183.eng</DOCNO>
+        <IMAGE>images/01/1183.jpg</IMAGE>
+        <SENTENCE id="s774" start="14642" end="14791">
+            <TEXT>a room with white walls , a double bed made of wood with a multicoloured bedcover and a night table on both sides , each having a lamp above them .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s775" start="14791" end="14817">
+            <TEXT>a parquet made of wood .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1184.eng</DOCNO>
+        <IMAGE>images/01/1184.jpg</IMAGE>
+        <SENTENCE id="s776" start="14817" end="14924">
+            <TEXT>a dark red house with lots of arches and columns , and red rails and a few potted plants in front of it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1185.eng</DOCNO>
+        <IMAGE>images/01/1185.jpg</IMAGE>
+        <SENTENCE id="s777" start="14924" end="15013">
+            <TEXT>a swimming pool with white canvas chairs and palm trees in the background on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1187.eng</DOCNO>
+        <IMAGE>images/01/1187.jpg</IMAGE>
+        <SENTENCE id="s778" start="15013" end="15157">
+            <TEXT>a room with white walls , a double bed with a yellow and red chequered bedcover , a night table of both sides and a burning lamp on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s779" start="15157" end="15261">
+            <TEXT>there is also a wooden table and chair in the background and a fridge in the foreground on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1188.eng</DOCNO>
+        <IMAGE>images/01/1188.jpg</IMAGE>
+        <SENTENCE id="s780" start="15261" end="15336">
+            <TEXT>a white house with stairs , arches and columns in front of the entrance .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s781" start="15336" end="15413">
+            <TEXT>there is a garden on the left with a lawn , flowers and little palm trees .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1189.eng</DOCNO>
+        <IMAGE>images/01/1189.jpg</IMAGE>
+        <SENTENCE id="s782" start="15413" end="15487">
+            <TEXT>a room with a single bed , a white bedcover and multicoloured blankets .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s783" start="15487" end="15672">
+            <TEXT>there is a green bench on the left , a wooden table with a TV in front of a window with light brown curtains on the right , and a wooden door with glass and blinds in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1190.eng</DOCNO>
+        <IMAGE>images/01/1190.jpg</IMAGE>
+        <SENTENCE id="s784" start="15672" end="15840">
+            <TEXT>a light orange three-storey building with blue windows , a garden that is surrounded by an iron fence and white columns , and people walking on a pavement before it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1191.eng</DOCNO>
+        <IMAGE>images/01/1191.jpg</IMAGE>
+        <SENTENCE id="s785" start="15840" end="15999">
+            <TEXT>a room with a double bed and a single bed made of wood , with green , yellow and blue bedcovers and a night table with a lamp and an alarm clock in between .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1192.eng</DOCNO>
+        <IMAGE>images/01/1192.jpg</IMAGE>
+        <SENTENCE id="s786" start="15999" end="16125">
+            <TEXT>a room with green and yellow walls , two single beds with multicoloured bedcovers and a night table with a lamp in between .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s787" start="16125" end="16251">
+            <TEXT>there is a wooden door that has been painted white on the left , and a big window with open , orange curtains on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1193.eng</DOCNO>
+        <IMAGE>images/01/1193.jpg</IMAGE>
+        <SENTENCE id="s788" start="16251" end="16351">
+            <TEXT>a car is parking in front of a white , three-storey building with big windows and brown curtains .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s789" start="16351" end="16403">
+            <TEXT>there is also a power line in front of the house .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1194.eng</DOCNO>
+        <IMAGE>images/01/1194.jpg</IMAGE>
+        <SENTENCE id="s790" start="16403" end="16492">
+            <TEXT>a room with light orange walls , a single bed with a violet bedcover and white towels .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s791" start="16492" end="16586">
+            <TEXT>there is a night table with a lamp on the right and a white and yellow curtain on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1195.eng</DOCNO>
+        <IMAGE>images/01/1195.jpg</IMAGE>
+        <SENTENCE id="s792" start="16586" end="16763">
+            <TEXT>a swimming pool with a blue edge , blue canvas chairs and a blue sunshade on the left , behind it a pink house surround by palm trees , and a big sand dune in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1196.eng</DOCNO>
+        <IMAGE>images/01/1196.jpg</IMAGE>
+        <SENTENCE id="s793" start="16763" end="16872">
+            <TEXT>a room with a wall made of red bricks ( on the left ) and a white wall with two pictures ( on the right ) .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s794" start="16872" end="16961">
+            <TEXT>there are two single beds with brown blankets and a night table and a lamp in between .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s795" start="16961" end="17020">
+            <TEXT>there is also a window with purple curtains on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1197.eng</DOCNO>
+        <IMAGE>images/01/1197.jpg</IMAGE>
+        <SENTENCE id="s796" start="17020" end="17143">
+            <TEXT>a three-storey house made of red bricks with green ornaments and a yellow corner with a sign saying La Posada del Conde .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s797" start="17143" end="17177">
+            <TEXT>all levels have arched windows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s798" start="17177" end="17230">
+            <TEXT>there is a jeep in front of the house on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1199.eng</DOCNO>
+        <IMAGE>images/01/1199.jpg</IMAGE>
+        <SENTENCE id="s799" start="17230" end="17271">
+            <TEXT>a white ship in full speed on the sea .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s800" start="17271" end="17303">
+            <TEXT>a blue sky in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1200.eng</DOCNO>
+        <IMAGE>images/01/1200.jpg</IMAGE>
+        <SENTENCE id="s801" start="17303" end="17408">
+            <TEXT>a room with blue walls , two single beds made of wood with a phone in between and a painting above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s802" start="17408" end="17501">
+            <TEXT>the bedcover of the bed in the front is purple and green , the other one is multicoloured .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1201.eng</DOCNO>
+        <IMAGE>images/01/1201.jpg</IMAGE>
+        <SENTENCE id="s803" start="17501" end="17627">
+            <TEXT>a grey and brown building with a bright blue entrance and a blue writing Alameda del Peregrino on a bright blue background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1202.eng</DOCNO>
+        <IMAGE>images/01/1202.jpg</IMAGE>
+        <SENTENCE id="s804" start="17627" end="17678">
+            <TEXT>a king-sized bed with a white and grey bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s805" start="17678" end="17815">
+            <TEXT>there is a night table to the left and a chair in front of a mirror on the right , and a painting of a half-naked woman above the bed .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1203.eng</DOCNO>
+        <IMAGE>images/01/1203.jpg</IMAGE>
+        <SENTENCE id="s806" start="17815" end="17842">
+            <TEXT>the entrance of a hotel .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s807" start="17842" end="17997">
+            <TEXT>there is a lamp on the left and on the right , an ornament above the entrance , a man on the way to the stairs next to a flower pot behind the entrance ,</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1204.eng</DOCNO>
+        <IMAGE>images/01/1204.jpg</IMAGE>
+        <SENTENCE id="s808" start="17997" end="18178">
+            <TEXT>a room with light blue walls , a double bed made of wood with a purple bedcover , a night table with a phone , remote controls and a lamp on the right , and a fridge on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1205.eng</DOCNO>
+        <IMAGE>images/01/1205.jpg</IMAGE>
+        <SENTENCE id="s809" start="18178" end="18283">
+            <TEXT>a brown house with large windows and flags above the entrance , and the white writing Hotel Peregrino .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1206.eng</DOCNO>
+        <IMAGE>images/01/1206.jpg</IMAGE>
+        <SENTENCE id="s810" start="18283" end="18479">
+            <TEXT>a room with light and dark brown walls , a double bed made of wood with a multicolour-striped bedcover , an arm chair and a plant at a window with orange curtains in the background on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1207.eng</DOCNO>
+        <IMAGE>images/01/1207.jpg</IMAGE>
+        <SENTENCE id="s811" start="18479" end="18534">
+            <TEXT>view of a brown house with grey and brown rooftiles .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s812" start="18534" end="18655">
+            <TEXT>there is a meadow with flowers in front of the house and a couple of trees behind it , and a canyon in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1208.eng</DOCNO>
+        <IMAGE>images/01/1208.jpg</IMAGE>
+        <SENTENCE id="s813" start="18655" end="18810">
+            <TEXT>a room with white walls , a double bed made of wood , a light blue and white chequered bedcover and white towels and a black chimney in the back corner .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1209.eng</DOCNO>
+        <IMAGE>images/01/1209.jpg</IMAGE>
+        <SENTENCE id="s814" start="18810" end="18881">
+            <TEXT>an orange house with three small windows and stones set in concrete .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s815" start="18881" end="18989">
+            <TEXT>there is a dense vegetation with bushes , trees and potted plants in front of the house of the neighbour .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1210.eng</DOCNO>
+        <IMAGE>images/01/1210.jpg</IMAGE>
+        <SENTENCE id="s816" start="18989" end="19195">
+            <TEXT>a room with white walls and a crate behind the two single beds made of wood with a multicoloured bedcover , white towels and a night table with a lamp and a phone in between them and a painting above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s817" start="19195" end="19253">
+            <TEXT>there is a white closet in the background on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1211.eng</DOCNO>
+        <IMAGE>images/01/1211.jpg</IMAGE>
+        <SENTENCE id="s818" start="19253" end="19358">
+            <TEXT>a ranch with yellow sunshades , red walls , white columns , flags , palm trees , a fountain , a hedge .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s819" start="19358" end="19397">
+            <TEXT>there is a forest in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1212.eng</DOCNO>
+        <IMAGE>images/01/1212.jpg</IMAGE>
+        <SENTENCE id="s820" start="19397" end="19563">
+            <TEXT>a room with light yellow walls , two wooden ornamental strips , a double bed with a blue and brown striped bedcover , a night table with a red lamp and an ashtray .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1213.eng</DOCNO>
+        <IMAGE>images/01/1213.jpg</IMAGE>
+        <SENTENCE id="s821" start="19563" end="19692">
+            <TEXT>a courtyard of a white , two-storey building with a lot of brownish red wood ( doors , timber and balcony ) and red rooftiles .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s822" start="19692" end="19753">
+            <TEXT>a swimming pool with a blue and white sunshade next to it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1214.eng</DOCNO>
+        <IMAGE>images/01/1214.jpg</IMAGE>
+        <SENTENCE id="s823" start="19753" end="19873">
+            <TEXT>a gravel road with an reddish-brown house on the left , a pavilion on the right and a wooded slope in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1215.eng</DOCNO>
+        <IMAGE>images/01/1215.jpg</IMAGE>
+        <SENTENCE id="s824" start="19873" end="19992">
+            <TEXT>a room with white walls , ( red with blue squares behind the ) two single beds with white and blue striped bedcover .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1216.eng</DOCNO>
+        <IMAGE>images/01/1216.jpg</IMAGE>
+        <SENTENCE id="s825" start="19992" end="20074">
+            <TEXT>a bungalow with two hammocks in front of the entrance and two trees next to it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s826" start="20074" end="20156">
+            <TEXT>there are people at the entrance , and a meadow and a forest in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1217.eng</DOCNO>
+        <IMAGE>images/01/1217.jpg</IMAGE>
+        <SENTENCE id="s827" start="20156" end="20390">
+            <TEXT>a room with light blue walls , two single beds ( one of it is fully visible ) made of wood and a night table with a lamp , a phone and a phone book in between , above it a painting , and a curtain in front of a window on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1220.eng</DOCNO>
+        <IMAGE>images/01/1220.jpg</IMAGE>
+        <SENTENCE id="s828" start="20390" end="20506">
+            <TEXT>a white , brown and green four-storey building with a Peruvian flag and the writing Hotel San Miguel on the roof .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s829" start="20506" end="20581">
+            <TEXT>there are two street lamps and three small palm trees in the foreground .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1221.eng</DOCNO>
+        <IMAGE>images/01/1221.jpg</IMAGE>
+        <SENTENCE id="s830" start="20581" end="20769">
+            <TEXT>a room with walls that are wallpapered in grey and brown and a double bed with a multicoloured bedcover , night tables on both sides , an iron ornament behind it and two lamps above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s831" start="20769" end="20826">
+            <TEXT>there is also a window with curtains on the very left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1222.eng</DOCNO>
+        <IMAGE>images/01/1222.jpg</IMAGE>
+        <SENTENCE id="s832" start="20826" end="21008">
+            <TEXT>two dark yellow car in front of a light yellow , two-storey house with white columns , window frames and ornaments , and the Peruvian flag with two other flags above the entrance .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1223.eng</DOCNO>
+        <IMAGE>images/01/1223.jpg</IMAGE>
+        <SENTENCE id="s833" start="21008" end="21140">
+            <TEXT>the view into a the courtyard of a dark yellow building with white doors and grey gates , and a trunk of a palm tree on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1224.eng</DOCNO>
+        <IMAGE>images/01/1224.jpg</IMAGE>
+        <SENTENCE id="s834" start="21140" end="21279">
+            <TEXT>a room with a grey wall and two single beds with multicoloured bedcovers , a night table with a phone in between and two lamps above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s835" start="21279" end="21359">
+            <TEXT>there are white curtains in front of a window in the background on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1225.eng</DOCNO>
+        <IMAGE>images/01/1225.jpg</IMAGE>
+        <SENTENCE id="s836" start="21359" end="21444">
+            <TEXT>front view of a grey and white building , with a few men in front of the entrance .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1226.eng</DOCNO>
+        <IMAGE>images/01/1226.jpg</IMAGE>
+        <SENTENCE id="s837" start="21444" end="21530">
+            <TEXT>a room with grey walls , two single beds made of wood and yellow and blue bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s838" start="21530" end="21604">
+            <TEXT>there are night tables with burning bedside lamps on each of the sides .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s839" start="21604" end="21712">
+            <TEXT>there is a white , wooden door in the background on the right , and a painting on the wall above the bed .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1227.eng</DOCNO>
+        <IMAGE>images/01/1227.jpg</IMAGE>
+        <SENTENCE id="s840" start="21712" end="21811">
+            <TEXT>a room with brown-greyish walls , two single beds made of wood with bluish bedcover and pillows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s841" start="21811" end="21955">
+            <TEXT>there is a night table between the beds , a lamp above each of the beds and a window with light green curtains in the background on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1228.eng</DOCNO>
+        <IMAGE>images/01/1228.jpg</IMAGE>
+        <SENTENCE id="s842" start="21955" end="22035">
+            <TEXT>a swimming pool with canvas chairs , chairs , tables and sunshades behind it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s843" start="22035" end="22078">
+            <TEXT>palm trees and bushed in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1229.eng</DOCNO>
+        <IMAGE>images/01/1229.jpg</IMAGE>
+        <SENTENCE id="s844" start="22078" end="22157">
+            <TEXT>a room with yellow walls with a painting and some parts with natural stones .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s845" start="22157" end="22284">
+            <TEXT>there is a king-sized bed made of wood with light-pinkish bedcover and two white towels , a bedside lamp and a wooden chair .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1230.eng</DOCNO>
+        <IMAGE>images/01/1230.jpg</IMAGE>
+        <SENTENCE id="s846" start="22284" end="22392">
+            <TEXT>a courtyard with tables , wooden chairs , a fountain on the right , several arches and columns and a bar .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s847" start="22392" end="22470">
+            <TEXT>there are potted plants and green rails on the balcony of the second floor .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1231.eng</DOCNO>
+        <IMAGE>images/01/1231.jpg</IMAGE>
+        <SENTENCE id="s848" start="22470" end="22592">
+            <TEXT>room with light blue walls and two single bed made of wood right next to each other with light and dark blue bedcovers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s849" start="22592" end="22706">
+            <TEXT>there is a night table with bedside lamp on the right , and a window with curtains behind the beds on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1232.eng</DOCNO>
+        <IMAGE>images/01/1232.jpg</IMAGE>
+        <SENTENCE id="s850" start="22706" end="22792">
+            <TEXT>a light brown house with a garden with a thatched roof and white chairs and tables .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1233.eng</DOCNO>
+        <IMAGE>images/01/1233.jpg</IMAGE>
+        <SENTENCE id="s851" start="22792" end="22924">
+            <TEXT>room with grey walls , two single beds with yellow and blue chequered bedcovers and a night table with a bedside lamp in between .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s852" start="22924" end="22986">
+            <TEXT>there is also a wooden door in the background on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1234.eng</DOCNO>
+        <IMAGE>images/01/1234.jpg</IMAGE>
+        <SENTENCE id="s853" start="22986" end="23052">
+            <TEXT>a swimming pool with an artificial peninsula and a plant on it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s854" start="23052" end="23200">
+            <TEXT>there are white canvas chairs , a table with four normal chairs , a thatched roof over a walk and a white house with a lot of timber on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s855" start="23200" end="23263">
+            <TEXT>there are also palm leafs and other trees in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1235.eng</DOCNO>
+        <IMAGE>images/01/1235.jpg</IMAGE>
+        <SENTENCE id="s856" start="23263" end="23373">
+            <TEXT>a room with grey walls , a single bed with green , yellow and purple stripes and a bed table on both sides .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1236.eng</DOCNO>
+        <IMAGE>images/01/1236.jpg</IMAGE>
+        <SENTENCE id="s857" start="23373" end="23476">
+            <TEXT>a sandy beach with a palm tree and a roofed picnic area made of wood with benches in the foreground .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s858" start="23476" end="23549">
+            <TEXT>there are more palm trees and houses behind a hedge in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1237.eng</DOCNO>
+        <IMAGE>images/01/1237.jpg</IMAGE>
+        <SENTENCE id="s859" start="23549" end="23657">
+            <TEXT>a room with a wooden king-sized bed , somewhat pale bedcovers and a large door with curtains on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s860" start="23657" end="23698">
+            <TEXT>palms and the sea are visible outside .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1238.eng</DOCNO>
+        <IMAGE>images/01/1238.jpg</IMAGE>
+        <SENTENCE id="s861" start="23698" end="23868">
+            <TEXT>a palm tree in the foreground on the right , behind it a grey wall with a hedge and an entrance gate made of pillars to a garden with more palm trees and a pink house .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1239.eng</DOCNO>
+        <IMAGE>images/01/1239.jpg</IMAGE>
+        <SENTENCE id="s862" start="23868" end="24006">
+            <TEXT>a room with grey walls and a single bed made of wood , a night table with a bedside lamp and a window with closed curtains on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1241.eng</DOCNO>
+        <IMAGE>images/01/1241.jpg</IMAGE>
+        <SENTENCE id="s863" start="24006" end="24136">
+            <TEXT>a room with white walls , a king-sized bed with red bedcover and pillows and a large window with open blinds in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1242.eng</DOCNO>
+        <IMAGE>images/01/1242.jpg</IMAGE>
+        <SENTENCE id="s864" start="24136" end="24195">
+            <TEXT>small palm trees along a footpath next to a gravel area .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s865" start="24195" end="24275">
+            <TEXT>there is a dark brown house , a swimming pool and a forest in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1243.eng</DOCNO>
+        <IMAGE>images/01/1243.jpg</IMAGE>
+        <SENTENCE id="s866" start="24275" end="24423">
+            <TEXT>a room with beige walls , two single beds made of wood with orange-brownish bedcovers and in between a night table with a lamp and a phone on it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s867" start="24423" end="24469">
+            <TEXT>there is also a large painting on the wall .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1244.eng</DOCNO>
+        <IMAGE>images/01/1244.jpg</IMAGE>
+        <SENTENCE id="s868" start="24469" end="24624">
+            <TEXT>the courtyard of an orange , two-storey building with a footpath to a swimming pool in the shape of an eight and small palm trees to the left and right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1245.eng</DOCNO>
+        <IMAGE>images/01/1245.jpg</IMAGE>
+        <SENTENCE id="s869" start="24624" end="24762">
+            <TEXT>a simple room with white walls and a single bed with a light blue bedcover , a white and blue striped pillow and a curtain on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1246.eng</DOCNO>
+        <IMAGE>images/01/1246.jpg</IMAGE>
+        <SENTENCE id="s870" start="24762" end="24888">
+            <TEXT>an open square with a swimming pool , a red building with arched doors and a steep hill wit a lighthouse in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1248.eng</DOCNO>
+        <IMAGE>images/01/1248.jpg</IMAGE>
+        <SENTENCE id="s871" start="24888" end="24974">
+            <TEXT>turquoise beach canvas chairs and sunshades in front of a wall made of grey stones .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s872" start="24974" end="25023">
+            <TEXT>palm trees and a few houses in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1251.eng</DOCNO>
+        <IMAGE>images/01/1251.jpg</IMAGE>
+        <SENTENCE id="s873" start="25023" end="25141">
+            <TEXT>a room with white walls , a king-sized bade made of wood , white and blue chequered bedcover and two satin pillows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s874" start="25141" end="25255">
+            <TEXT>there is a night table with a lamp on the left , a large painting above the bed and a small window on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1252.eng</DOCNO>
+        <IMAGE>images/01/1252.jpg</IMAGE>
+        <SENTENCE id="s875" start="25255" end="25407">
+            <TEXT>palm trees with hammocks in between , a slope , sunshades with a thatched roof and white sand in the foreground , and a few houses in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1253.eng</DOCNO>
+        <IMAGE>images/01/1253.jpg</IMAGE>
+        <SENTENCE id="s876" start="25407" end="25504">
+            <TEXT>a room with a king-sized bed made of wood , blue and red chequered bedcover and white pillows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s877" start="25504" end="25542">
+            <TEXT>night table with lamp on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s878" start="25542" end="25572">
+            <TEXT>window with white curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1254.eng</DOCNO>
+        <IMAGE>images/01/1254.jpg</IMAGE>
+        <SENTENCE id="s879" start="25572" end="25650">
+            <TEXT>a swimming pool with blue and white canvas chairs and palm trees around it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s880" start="25650" end="25714">
+            <TEXT>there is a white house with lots of timber in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1255.eng</DOCNO>
+        <IMAGE>images/01/1255.jpg</IMAGE>
+        <SENTENCE id="s881" start="25714" end="25819">
+            <TEXT>a room with white walls , a king-sized bed made of wood , bluish bedcover and white towels on the bed .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s882" start="25819" end="25887">
+            <TEXT>there is a night table on the right and a painting above the bed .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1256.eng</DOCNO>
+        <IMAGE>images/01/1256.jpg</IMAGE>
+        <SENTENCE id="s883" start="25887" end="25984">
+            <TEXT>a swimming pool with three palm trees , three burning lamps and a few canvas chairs around it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s884" start="25984" end="26079">
+            <TEXT>there is a balcony with flowers and wooden rails on the right and the sea in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1258.eng</DOCNO>
+        <IMAGE>images/01/1258.jpg</IMAGE>
+        <SENTENCE id="s885" start="26079" end="26196">
+            <TEXT>a room with white walls , a king-sized bed made of wood , a bedside lamp on the left and a painting above the bed .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1259.eng</DOCNO>
+        <IMAGE>images/01/1259.jpg</IMAGE>
+        <SENTENCE id="s886" start="26196" end="26279">
+            <TEXT>wooden rails and a wooden table with an ash tray on a balcony in the foreground .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s887" start="26279" end="26375">
+            <TEXT>behind it a swimming pool with palm trees , and a sandy beach with the sea in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1261.eng</DOCNO>
+        <IMAGE>images/01/1261.jpg</IMAGE>
+        <SENTENCE id="s888" start="26375" end="26493">
+            <TEXT>view from a wooden balcony with round , wooden rails and a palm tree in front of it onto a sandy beach and the sea .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1262.eng</DOCNO>
+        <IMAGE>images/01/1262.jpg</IMAGE>
+        <SENTENCE id="s889" start="26493" end="26670">
+            <TEXT>a room with blue and white walls , a king-sized bed made of wood , colourful bedcovers , a night table with a lamp on the left and the door to the bathroom in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1263.eng</DOCNO>
+        <IMAGE>images/01/1263.jpg</IMAGE>
+        <SENTENCE id="s890" start="26670" end="26845">
+            <TEXT>a swimming pool in the foreground , with a sunshade , tables and chairs on the left and above it a light brown house with several storeys and wooden rails on the balconies .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s891" start="26845" end="26949">
+            <TEXT>there is another house in the background on the right with a thatched roof and a woman in the garden .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1270.eng</DOCNO>
+        <IMAGE>images/01/1270.jpg</IMAGE>
+        <SENTENCE id="s892" start="26949" end="27084">
+            <TEXT>a white high-rise building ( the middle rows are red ) with large windows ( especialy at the corners ) and flags above the entrance .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1271.eng</DOCNO>
+        <IMAGE>images/01/1271.jpg</IMAGE>
+        <SENTENCE id="s893" start="27084" end="27194">
+            <TEXT>a yellow , two-storey building with a red roof and a grey wall in front of it and a yellow wall next to it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s894" start="27194" end="27276">
+            <TEXT>there is some water in the foreground and brown , bald hills in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1272.eng</DOCNO>
+        <IMAGE>images/01/1272.jpg</IMAGE>
+        <SENTENCE id="s895" start="27276" end="27336">
+            <TEXT>a room with beige walls , some parts with natural stones .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s896" start="27336" end="27444">
+            <TEXT>two single beds with a gold and blue bedcover , burning lamps on each side and a painting above the beds .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1273.eng</DOCNO>
+        <IMAGE>images/01/1273.jpg</IMAGE>
+        <SENTENCE id="s897" start="27444" end="27583">
+            <TEXT>a large room with yellow-brownish walls , a king-sized bed made of wood , carpets , a TV , and a window with curtains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1274.eng</DOCNO>
+        <IMAGE>images/01/1274.jpg</IMAGE>
+        <SENTENCE id="s898" start="27583" end="27699">
+            <TEXT>the entrance of a high , black , grey and yellow building with a white limousine and a white flag in front of it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s899" start="27699" end="27753">
+            <TEXT>there is also a tree in the foreground on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1275.eng</DOCNO>
+        <IMAGE>images/01/1275.jpg</IMAGE>
+        <SENTENCE id="s900" start="27753" end="27878">
+            <TEXT>a room with yellow walls , green wooden beds , chequered bedcovers and a green wooden night table in between with a phone .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s901" start="27878" end="27947">
+            <TEXT>a window with curtains , a table and two chairs in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1276.eng</DOCNO>
+        <IMAGE>images/01/1276.jpg</IMAGE>
+        <SENTENCE id="s902" start="27947" end="28088">
+            <TEXT>a room with light-pink walls , a bed made of wood , white towels , a night table with a lamp on both sides , and a painting above the bed .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1277.eng</DOCNO>
+        <IMAGE>images/01/1277.jpg</IMAGE>
+        <SENTENCE id="s903" start="28088" end="28245">
+            <TEXT>a room with walls made of orange bricks , two single beds made of wood with light bedcover , a night table with a lamp in between and a painting above it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1278.eng</DOCNO>
+        <IMAGE>images/01/1278.jpg</IMAGE>
+        <SENTENCE id="s904" start="28245" end="28389">
+            <TEXT>a grey car , a large green tree and a smaller tree blooming in purple and also a lot of potted plants in front of a one-storey , white house .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s905" start="28389" end="28431">
+            <TEXT>there is cobblestone in the foreground .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1289.eng</DOCNO>
+        <IMAGE>images/01/1289.jpg</IMAGE>
+        <SENTENCE id="s906" start="28431" end="28508">
+            <TEXT>a white house with a brown thatched roof and with a corrugated sheet roof .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s907" start="28508" end="28620">
+            <TEXT>there is an earth wall in the foreground and a brown , bald hill with further small houses in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1290.eng</DOCNO>
+        <IMAGE>images/01/1290.jpg</IMAGE>
+        <SENTENCE id="s908" start="28620" end="28679">
+            <TEXT>a wooden bulk bed with grey mattresses and red curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1291.eng</DOCNO>
+        <IMAGE>images/01/1291.jpg</IMAGE>
+        <SENTENCE id="s909" start="28679" end="28746">
+            <TEXT>a red , blue and white cargo ship in the water ( in a harbour ? )</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1292.eng</DOCNO>
+        <IMAGE>images/01/1292.jpg</IMAGE>
+        <SENTENCE id="s910" start="28746" end="28797">
+            <TEXT>a house in the middle of a forest and on a lake .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s911" start="28797" end="28829">
+            <TEXT>there is a road on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s912" start="28829" end="28896">
+            <TEXT>there are wooded slopes and snowcovered peaks in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1294.eng</DOCNO>
+        <IMAGE>images/01/1294.jpg</IMAGE>
+        <SENTENCE id="s913" start="28896" end="28958">
+            <TEXT>an access gravel road to green houses with dark grey roofs .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s914" start="28958" end="29038">
+            <TEXT>there is a wooden fence on the left , and there are cars parked on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s915" start="29038" end="29095">
+            <TEXT>a small township with many dark green trees behind it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s916" start="29095" end="29191">
+            <TEXT>and in the distant background a lake , an island and a mountain range with snowcovered peaks .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1299.eng</DOCNO>
+        <IMAGE>images/01/1299.jpg</IMAGE>
+        <SENTENCE id="s917" start="29191" end="29238">
+            <TEXT>two men are standing on a cobbled foot path .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s918" start="29238" end="29390">
+            <TEXT>there are trees , a Welcome Nancy Hospedaje sign and an iron fence on the right , and white houses with dark grey roofs or reddish roofs on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1300.eng</DOCNO>
+        <IMAGE>images/01/1300.jpg</IMAGE>
+        <SENTENCE id="s919" start="29390" end="29514">
+            <TEXT>a greenish yellow house with white ornamental strips , a yellow entrance and a writing Hostal Bonbini on blue background .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s920" start="29514" end="29632">
+            <TEXT>there are eight flags above the entrance , a pavement with a few pedestrians and a parked white car in front of it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1301.eng</DOCNO>
+        <IMAGE>images/01/1301.jpg</IMAGE>
+        <SENTENCE id="s921" start="29632" end="29769">
+            <TEXT>a room with brown walls and lots of cane , a couple of blankets on the ground , and window with blinds made of cane in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1302.eng</DOCNO>
+        <IMAGE>images/01/1302.jpg</IMAGE>
+        <SENTENCE id="s922" start="29769" end="29848">
+            <TEXT>a room with walls made of wood and also a wooden bed that has not been made .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s923" start="29848" end="29884">
+            <TEXT>white bedcover and white pillows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s924" start="29884" end="29951">
+            <TEXT>there is a mosquito net above the bed and a backpack next to it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1303.eng</DOCNO>
+        <IMAGE>images/01/1303.jpg</IMAGE>
+        <SENTENCE id="s925" start="29951" end="30038">
+            <TEXT>two wooden huts on pillars , with a thatched roof and a green corrugated sheet roof .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s926" start="30038" end="30120">
+            <TEXT>dense vegetation , a palm tree , flowers and bushes in front of and below them .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1304.eng</DOCNO>
+        <IMAGE>images/01/1304.jpg</IMAGE>
+        <SENTENCE id="s927" start="30120" end="30164">
+            <TEXT>room with yellow walls and two paintings .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s928" start="30164" end="30205">
+            <TEXT>a king-sized bed with purple bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s929" start="30205" end="30334">
+            <TEXT>there is a night table on the left and a chair on the right , and a window with white curtains in the background on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s930" start="30334" end="30354">
+            <TEXT>grey-blue carpet .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1307.eng</DOCNO>
+        <IMAGE>images/01/1307.jpg</IMAGE>
+        <SENTENCE id="s931" start="30354" end="30473">
+            <TEXT>grey and red building with big windows ( on the right ) and closed garage doors ( on the left ) on the ground level .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s932" start="30473" end="30553">
+            <TEXT>there are ten international flags and the writing Central above the entrance .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1308.eng</DOCNO>
+        <IMAGE>images/01/1308.jpg</IMAGE>
+        <SENTENCE id="s933" start="30553" end="30592">
+            <TEXT>room with white walls and a picture .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s934" start="30592" end="30665">
+            <TEXT>two single beds made of wood with red blankets and light-blue pillows .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1309.eng</DOCNO>
+        <IMAGE>images/01/1309.jpg</IMAGE>
+        <SENTENCE id="s935" start="30665" end="30737">
+            <TEXT>a white , two-storey building with the green writing Hostal El Ancla .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s936" start="30737" end="30807">
+            <TEXT>arched windows behind an iron fence and an green , arched entrance .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s937" start="30807" end="30861">
+            <TEXT>there is a small , grey wall in front of the house .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1310.eng</DOCNO>
+        <IMAGE>images/01/1310.jpg</IMAGE>
+        <SENTENCE id="s938" start="30861" end="31000">
+            <TEXT>a room with grey walls , two single beds with grey , green and yellow striped bedcover and a night table with a bedside lamp in between .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s939" start="31000" end="31059">
+            <TEXT>there is a window with white curtains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1311.eng</DOCNO>
+        <IMAGE>images/01/1311.jpg</IMAGE>
+        <SENTENCE id="s940" start="31059" end="31146">
+            <TEXT>a swimming pool in the courtyard of a white building with a lot of trees and plants .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s941" start="31146" end="31242">
+            <TEXT>there are yellow and white canvas chairs , a sunshade and a grey cobblestone around the pool .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1312.eng</DOCNO>
+        <IMAGE>images/01/1312.jpg</IMAGE>
+        <SENTENCE id="s942" start="31242" end="31336">
+            <TEXT>a modern room with white walls , a king-sized bed made of wood and gold and blue bed cover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s943" start="31336" end="31407">
+            <TEXT>there is a night table and a window with white curtains on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s944" start="31407" end="31458">
+            <TEXT>there are two further windows with yellow glass .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1313.eng</DOCNO>
+        <IMAGE>images/01/1313.jpg</IMAGE>
+        <SENTENCE id="s945" start="31458" end="31536">
+            <TEXT>a terrace of a white house with white tables and chairs and blue sunshades .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s946" start="31536" end="31614">
+            <TEXT>there is a beach with breaking waves and the setting sun in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1314.eng</DOCNO>
+        <IMAGE>images/01/1314.jpg</IMAGE>
+        <SENTENCE id="s947" start="31614" end="31760">
+            <TEXT>a white bungalow with a huge , brown hill behind it and trees , a sunshade , plastic chairs , a plastic table and canvas chairs in front of it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s948" start="31760" end="31824">
+            <TEXT>in the foreground one can also see a part of a swimming pool .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1315.eng</DOCNO>
+        <IMAGE>images/01/1315.jpg</IMAGE>
+        <SENTENCE id="s949" start="31824" end="31851">
+            <TEXT>a room with green walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s950" start="31851" end="31961">
+            <TEXT>two single beds made of wood with green and blue bedcover and a night table with a bedside lamp in between .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s951" start="31961" end="32014">
+            <TEXT>there is a window with white curtains on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1316.eng</DOCNO>
+        <IMAGE>images/01/1316.jpg</IMAGE>
+        <SENTENCE id="s952" start="32014" end="32112">
+            <TEXT>a room with light grey and yellow walls and a king-sized bed made of wood with green bed cover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s953" start="32112" end="32170">
+            <TEXT>there is a night table with a bedside lamp on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s954" start="32170" end="32209">
+            <TEXT>and there is a painting on the wall .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1317.eng</DOCNO>
+        <IMAGE>images/01/1317.jpg</IMAGE>
+        <SENTENCE id="s955" start="32209" end="32338">
+            <TEXT>a blue building with a thatched roof and a wooden balcony and a hedge , wooden tables and chairs and sunshades in front of it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s956" start="32338" end="32391">
+            <TEXT>there are palm trees and a hill in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1318.eng</DOCNO>
+        <IMAGE>images/01/1318.jpg</IMAGE>
+        <SENTENCE id="s957" start="32391" end="32474">
+            <TEXT>a room with red walls , two single beds made of iron and red and grey bedcovers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s958" start="32474" end="32599">
+            <TEXT>there is a night table with a bedside lamp in between the beds , and a door to the bathroom in the background on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1319.eng</DOCNO>
+        <IMAGE>images/01/1319.jpg</IMAGE>
+        <SENTENCE id="s959" start="32599" end="32807">
+            <TEXT>a red building with doors and windows behind bars on the ground level , a white balcony with two balcony doors made of wood and glas and two more windows on the left with the white writing Hostal Colonial .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1320.eng</DOCNO>
+        <IMAGE>images/01/1320.jpg</IMAGE>
+        <SENTENCE id="s960" start="32807" end="32983">
+            <TEXT>a room with yellowish walls and two single beds made of wood with colourful bedcovers and a night table next to each bed and a phone and light switches between the two beds .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s961" start="32983" end="33029">
+            <TEXT>there is a painting above each of the beds .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1321.eng</DOCNO>
+        <IMAGE>images/01/1321.jpg</IMAGE>
+        <SENTENCE id="s962" start="33029" end="33137">
+            <TEXT>a dark blue building with a large glass door as entrance with the reflection of the opposite street side .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s963" start="33137" end="33254">
+            <TEXT>there are little cactuses in a small flower pot on the left , and there is another big window on the second floor .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1322.eng</DOCNO>
+        <IMAGE>images/01/1322.jpg</IMAGE>
+        <SENTENCE id="s964" start="33254" end="33311">
+            <TEXT>a room with white walls and a single bed made of wood .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s965" start="33311" end="33418">
+            <TEXT>there is a night table and a lamp on the left , and a wooden window with brownish curtains on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1323.eng</DOCNO>
+        <IMAGE>images/01/1323.jpg</IMAGE>
+        <SENTENCE id="s966" start="33418" end="33474">
+            <TEXT>a brownish red house with a white decorated entrance .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s967" start="33474" end="33618">
+            <TEXT>there are lamps and windows with white bars on the ground level , with a man with a ladder , a car , pedestrians and a street in front of it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1324.eng</DOCNO>
+        <IMAGE>images/01/1324.jpg</IMAGE>
+        <SENTENCE id="s968" start="33618" end="33705">
+            <TEXT>a room with grey walls and a single bed made of iron with orange and white bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s969" start="33705" end="33754">
+            <TEXT>a night table with a bedside lamp on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s970" start="33754" end="33800">
+            <TEXT>wooden door in the background on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1325.eng</DOCNO>
+        <IMAGE>images/01/1325.jpg</IMAGE>
+        <SENTENCE id="s971" start="33800" end="33948">
+            <TEXT>a narrow , two-storey , brownish red building with bars in front of windows and doors on the ground level and a broad window on the second floor .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s972" start="33948" end="34055">
+            <TEXT>there is a cab and a man in front of the house , a white wall on the right and a grey house on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1326.eng</DOCNO>
+        <IMAGE>images/01/1326.jpg</IMAGE>
+        <SENTENCE id="s973" start="34055" end="34164">
+            <TEXT>a room with grey walls , two single beds made of wood with grey and brown chequered bedcovers and pillows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s974" start="34164" end="34220">
+            <TEXT>night table with a bedside lamp between the two beds .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s975" start="34220" end="34267">
+            <TEXT>window with grey curtains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1327.eng</DOCNO>
+        <IMAGE>images/01/1327.jpg</IMAGE>
+        <SENTENCE id="s976" start="34267" end="34443">
+            <TEXT>a terrace with white plastic chairs and white round tables , red flowers on the right , a street behind the terrace and waves of the sea breaking on the beach during sunset .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1328.eng</DOCNO>
+        <IMAGE>images/01/1328.jpg</IMAGE>
+        <SENTENCE id="s977" start="34443" end="34512">
+            <TEXT>bulk bed made of wood with a light blue pillow and a grey blanket .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1330.eng</DOCNO>
+        <IMAGE>images/01/1330.jpg</IMAGE>
+        <SENTENCE id="s978" start="34512" end="34584">
+            <TEXT>a white bungalow with brown wooden doors and a little porch above it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1331.eng</DOCNO>
+        <IMAGE>images/01/1331.jpg</IMAGE>
+        <SENTENCE id="s979" start="34584" end="34632">
+            <TEXT>room with light green walls and one painting .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s980" start="34632" end="34714">
+            <TEXT>two single beds ( one fully visible ) made of wood with red and grey bedcovers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s981" start="34714" end="34770">
+            <TEXT>night table with a bedside lamp between the two beds .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1332.eng</DOCNO>
+        <IMAGE>images/01/1332.jpg</IMAGE>
+        <SENTENCE id="s982" start="34770" end="34795">
+            <TEXT>room with white walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s983" start="34795" end="34857">
+            <TEXT>two single beds made of wood with green and grey bedcovers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s984" start="34857" end="34923">
+            <TEXT>night table with bedside lamp and a phone between the two beds .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1333.eng</DOCNO>
+        <IMAGE>images/01/1333.jpg</IMAGE>
+        <SENTENCE id="s985" start="34923" end="35008">
+            <TEXT>a red , two-storey building with large doors and windows and rails in front of it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s986" start="35008" end="35087">
+            <TEXT>a few people are sitting at the wall , one man is walking next to the rails .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1334.eng</DOCNO>
+        <IMAGE>images/01/1334.jpg</IMAGE>
+        <SENTENCE id="s987" start="35087" end="35191">
+            <TEXT>Room with two beds on the right , a table with two chairs on the left and a large window in the back .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s988" start="35191" end="35229">
+            <TEXT>there is also a mirror on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1335.eng</DOCNO>
+        <IMAGE>images/01/1335.jpg</IMAGE>
+        <SENTENCE id="s989" start="35229" end="35320">
+            <TEXT>Front view of a house made of red bricks , with large wooden windows and white curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1337.eng</DOCNO>
+        <IMAGE>images/01/1337.jpg</IMAGE>
+        <SENTENCE id="s990" start="35320" end="35414">
+            <TEXT>a room with a king-sized bed and a night table and a bedside lamp on both sides of the bed .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s991" start="35414" end="35453">
+            <TEXT>behind it a wall made of red bricks .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1338.eng</DOCNO>
+        <IMAGE>images/01/1338.jpg</IMAGE>
+        <SENTENCE id="s992" start="35453" end="35504">
+            <TEXT>The courtyard of a white , three story building .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s993" start="35504" end="35555">
+            <TEXT>each level has a large balcony with arched rail .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1339.eng</DOCNO>
+        <IMAGE>images/01/1339.jpg</IMAGE>
+        <SENTENCE id="s994" start="35555" end="35669">
+            <TEXT>A room with an unmade bed ( just the mattress ) , a wooden door on the right , a separate bathroom on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s995" start="35669" end="35697">
+            <TEXT>white tiles on the floor .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s996" start="35697" end="35723">
+            <TEXT>walls look like marmol .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1340.eng</DOCNO>
+        <IMAGE>images/01/1340.jpg</IMAGE>
+        <SENTENCE id="s997" start="35723" end="35807">
+            <TEXT>a house made of red bricks , a little veranda with a small garden in front of it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1341.eng</DOCNO>
+        <IMAGE>images/01/1341.jpg</IMAGE>
+        <SENTENCE id="s998" start="35807" end="35835">
+            <TEXT>King-sized bed in a room .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s999" start="35835" end="35871">
+            <TEXT>red and white chequered bedcover .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1000" start="35871" end="35912">
+            <TEXT>night tables on both sides of the bed .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1001" start="35912" end="35944">
+            <TEXT>walls are made of red bricks .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1002" start="35944" end="35968">
+            <TEXT>painting on the wall .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1342.eng</DOCNO>
+        <IMAGE>images/01/1342.jpg</IMAGE>
+        <SENTENCE id="s1003" start="35968" end="36083">
+            <TEXT>a narrow , long courtyard of a brown house with wooden doors , white door frames and many pictures on the walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1004" start="36083" end="36140">
+            <TEXT>there are many plants , wooden chairs and flower pots .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1343.eng</DOCNO>
+        <IMAGE>images/01/1343.jpg</IMAGE>
+        <SENTENCE id="s1005" start="36140" end="36170">
+            <TEXT>room with light grey walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1006" start="36170" end="36270">
+            <TEXT>king-sized bed made of wood , blue bedcover with white flowers , blue pillows with white flowers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1007" start="36270" end="36295">
+            <TEXT>some stuff on the bed .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1344.eng</DOCNO>
+        <IMAGE>images/01/1344.jpg</IMAGE>
+        <SENTENCE id="s1008" start="36295" end="36458">
+            <TEXT>the courtyard of a white , two-storey building with red and brown rooftiles , a wooden balcony , rails and pillars and with many creeping and ornamental plants .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1345.eng</DOCNO>
+        <IMAGE>images/01/1345.jpg</IMAGE>
+        <SENTENCE id="s1009" start="36458" end="36560">
+            <TEXT>a room with green and blue walls , a wooden bed with a wooden night table , a burning bedside lamp .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1010" start="36560" end="36595">
+            <TEXT>green and blue striped bedcover .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1346.eng</DOCNO>
+        <IMAGE>images/01/1346.jpg</IMAGE>
+        <SENTENCE id="s1011" start="36595" end="36663">
+            <TEXT>Orange house surrounded by palm trees and bushes next to a river .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1347.eng</DOCNO>
+        <IMAGE>images/01/1347.jpg</IMAGE>
+        <SENTENCE id="s1012" start="36663" end="36785">
+            <TEXT>Room with wooden walls , one wooden bed with two pillows and white and green bedcovers with red and blue flowers on it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1348.eng</DOCNO>
+        <IMAGE>images/01/1348.jpg</IMAGE>
+        <SENTENCE id="s1013" start="36785" end="36833">
+            <TEXT>Cobbled street , greenish hotel on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1014" start="36833" end="36865">
+            <TEXT>a few people on the sidewalk .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1015" start="36865" end="36886">
+            <TEXT>car in the street .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1349.eng</DOCNO>
+        <IMAGE>images/01/1349.jpg</IMAGE>
+        <SENTENCE id="s1016" start="36886" end="36911">
+            <TEXT>Courtyard with bushes .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1017" start="36911" end="36987">
+            <TEXT>buildings with wooden poles and wooden windows are to the left and right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1350.eng</DOCNO>
+        <IMAGE>images/01/1350.jpg</IMAGE>
+        <SENTENCE id="s1018" start="36987" end="37060">
+            <TEXT>a room with one king-sized bed and one single bed , both made of wood .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1019" start="37060" end="37086">
+            <TEXT>night table in between .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1020" start="37086" end="37101">
+            <TEXT>white walls .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1351.eng</DOCNO>
+        <IMAGE>images/01/1351.jpg</IMAGE>
+        <SENTENCE id="s1021" start="37101" end="37219">
+            <TEXT>Room with four single beds made of wood ( two of them fully visible ) with light and dark orange striped bedcovers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1022" start="37219" end="37246">
+            <TEXT>night table with a lamp .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1352.eng</DOCNO>
+        <IMAGE>images/01/1352.jpg</IMAGE>
+        <SENTENCE id="s1023" start="37246" end="37328">
+            <TEXT>Two single beds , made of wood , painted white , with red and orange bedcovers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1024" start="37328" end="37355">
+            <TEXT>white door on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1025" start="37355" end="37395">
+            <TEXT>window with red curtains on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1026" start="37395" end="37411">
+            <TEXT>burning lamp .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1353.eng</DOCNO>
+        <IMAGE>images/01/1353.jpg</IMAGE>
+        <SENTENCE id="s1027" start="37411" end="37443">
+            <TEXT>White , three story building .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1028" start="37443" end="37456">
+            <TEXT>flat roof .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1029" start="37456" end="37483">
+            <TEXT>upper level has balcony .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1030" start="37483" end="37512">
+            <TEXT>wooden roof over entrance .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1031" start="37512" end="37529">
+            <TEXT>large windows .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1354.eng</DOCNO>
+        <IMAGE>images/01/1354.jpg</IMAGE>
+        <SENTENCE id="s1032" start="37529" end="37608">
+            <TEXT>Courtyard with a swimming pool , plastic charis and tables and one umbrella .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1033" start="37608" end="37633">
+            <TEXT>palm tree on the left .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1034" start="37633" end="37658">
+            <TEXT>kid in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1355.eng</DOCNO>
+        <IMAGE>images/01/1355.jpg</IMAGE>
+        <SENTENCE id="s1035" start="37658" end="37742">
+            <TEXT>a grey car in front of a three-storey building with white walls and wide windows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1036" start="37742" end="37860">
+            <TEXT>there is a thatched roof above the entrance on the ground floor , and there are a few people in front of the house .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1356.eng</DOCNO>
+        <IMAGE>images/01/1356.jpg</IMAGE>
+        <SENTENCE id="s1037" start="37860" end="37967">
+            <TEXT>front view of a house with blue window frames , broad windows , trees and benches in front of the house .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1357.eng</DOCNO>
+        <IMAGE>images/01/1357.jpg</IMAGE>
+        <SENTENCE id="s1038" start="37967" end="38157">
+            <TEXT>a room with walls painted in green and red , a double bed with a light and dark brown striped blanket , a night table with a lamp on the left and a door and two windows in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1358.eng</DOCNO>
+        <IMAGE>images/01/1358.jpg</IMAGE>
+        <SENTENCE id="s1039" start="38157" end="38356">
+            <TEXT>a multi-storey frame house on the left , a snowcovered mountain in the background on the right behind a couple of trees , and in the foreground a wall decorated with flowers , a garden and a lawn .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1360.eng</DOCNO>
+        <IMAGE>images/01/1360.jpg</IMAGE>
+        <SENTENCE id="s1040" start="38356" end="38546">
+            <TEXT>a yellow house with a thatched roof on the left , a hut with a thatched roof on the right , and in front of them a footpath to a hot spring pool which is surrounded by stones and flowers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1041" start="38546" end="38587">
+            <TEXT>meadows and forests in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1361.eng</DOCNO>
+        <IMAGE>images/01/1361.jpg</IMAGE>
+        <SENTENCE id="s1042" start="38587" end="38721">
+            <TEXT>a white house with two large windows with wooden frames , two wooden pillars at the terrace with wooden benches and a wooden table .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1043" start="38721" end="38775">
+            <TEXT>there are mountains in the background on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1362.eng</DOCNO>
+        <IMAGE>images/01/1362.jpg</IMAGE>
+        <SENTENCE id="s1044" start="38775" end="38941">
+            <TEXT>a woman in a room with white walls , a bunk bed made of wood on the left , another single bed on the right and a broad window with a wooden frame behind the woman .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1365.eng</DOCNO>
+        <IMAGE>images/01/1365.jpg</IMAGE>
+        <SENTENCE id="s1045" start="38941" end="39033">
+            <TEXT>view of a jungle lodge with a thatched roof and a very dense jungle vegetation around it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1046" start="39033" end="39065">
+            <TEXT>there are stairs on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1367.eng</DOCNO>
+        <IMAGE>images/01/1367.jpg</IMAGE>
+        <SENTENCE id="s1047" start="39065" end="39284">
+            <TEXT>two single beds with blue bedcovers , a night table each with lamps on both sides , a picture over each of the beds on the light brown wall , and a very wide window with white curtains in the background on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1048" start="39284" end="39308">
+            <TEXT>wooden parquet floor .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1368.eng</DOCNO>
+        <IMAGE>images/01/1368.jpg</IMAGE>
+        <SENTENCE id="s1049" start="39308" end="39394">
+            <TEXT>view of the upper level of a house with a wooden door , window , pillars and rails .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1050" start="39394" end="39509">
+            <TEXT>there are stairs on the left and a very dense vegetation on the right and more houses in the distant background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1369.eng</DOCNO>
+        <IMAGE>images/01/1369.jpg</IMAGE>
+        <SENTENCE id="s1051" start="39509" end="39671">
+            <TEXT>a room with a double bed made of dark wood , a blue and white chequered bedcover , white pillows , a door on the left , a fancy lamp and a fridge on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1370.eng</DOCNO>
+        <IMAGE>images/01/1370.jpg</IMAGE>
+        <SENTENCE id="s1052" start="39671" end="39841">
+            <TEXT>front view of a white building with a street on the left , a wooden fence at the entrance at the front , three big windows and a big door and a little canopy above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1053" start="39841" end="39903">
+            <TEXT>there are potted plants in front of the house on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1371.eng</DOCNO>
+        <IMAGE>images/01/1371.jpg</IMAGE>
+        <SENTENCE id="s1054" start="39903" end="39982">
+            <TEXT>a double bed made of wood with pink and white striped pillows and bedcovers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1055" start="39982" end="40027">
+            <TEXT>there is a shelf in the back on the right .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1056" start="40027" end="40042">
+            <TEXT>white walls .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1374.eng</DOCNO>
+        <IMAGE>images/01/1374.jpg</IMAGE>
+        <SENTENCE id="s1057" start="40042" end="40125">
+            <TEXT>a room with white walls and an integrated double bed with a dark orange blanket .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1058" start="40125" end="40171">
+            <TEXT>there is a lampe on the wall above the bed .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1375.eng</DOCNO>
+        <IMAGE>images/01/1375.jpg</IMAGE>
+        <SENTENCE id="s1059" start="40171" end="40245">
+            <TEXT>front view of a yellow two-storey building with a hedge in front of it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1060" start="40245" end="40303">
+            <TEXT>the ground level has several arches with white columns .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1061" start="40303" end="40436">
+            <TEXT>behind it there is a higher white house , more houses in the background on the left , and the writing Hotel Real on the very left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1376.eng</DOCNO>
+        <IMAGE>images/01/1376.jpg</IMAGE>
+        <SENTENCE id="s1062" start="40436" end="40549">
+            <TEXT>a room with a double bed , a carpet and a night table on the left , a painting above it and two burning lamps .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1377.eng</DOCNO>
+        <IMAGE>images/01/1377.jpg</IMAGE>
+        <SENTENCE id="s1063" start="40549" end="40695">
+            <TEXT>front view of a light green house with a grey garage on the right , a white car in front of it and a round front with orange ornamental strips .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1380.eng</DOCNO>
+        <IMAGE>images/01/1380.jpg</IMAGE>
+        <SENTENCE id="s1064" start="40695" end="40772">
+            <TEXT>cars are parking in front of a dark orange house with small white columns .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1065" start="40772" end="40825">
+            <TEXT>there are three people at the red car on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1381.eng</DOCNO>
+        <IMAGE>images/01/1381.jpg</IMAGE>
+        <SENTENCE id="s1066" start="40825" end="40973">
+            <TEXT>two single beds made of wood with white bedcovers in a room with a reddish brown wall on the left , a white wall behind the beds and white tiles .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1382.eng</DOCNO>
+        <IMAGE>images/01/1382.jpg</IMAGE>
+        <SENTENCE id="s1067" start="40973" end="41180">
+            <TEXT>a white high-rise building with 21 storeys , another three , brown high-rise buildings on the left , a tree and further houses behind it on the right , and a beach and a supporting wall in the foreground .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1383.eng</DOCNO>
+        <IMAGE>images/01/1383.jpg</IMAGE>
+        <SENTENCE id="s1068" start="41180" end="41402">
+            <TEXT>a room with blue and white walls , two single beds with blue and light brown bedcovers , a night table in between , two paintings above it , a wooden bar in the foreground and a white door in the background on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1384.eng</DOCNO>
+        <IMAGE>images/01/1384.jpg</IMAGE>
+        <SENTENCE id="s1069" start="41402" end="41520">
+            <TEXT>a slightly underexposed , white bungalow with a high palm tree in front of it and with trees to the left and right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1385.eng</DOCNO>
+        <IMAGE>images/01/1385.jpg</IMAGE>
+        <SENTENCE id="s1070" start="41520" end="41660">
+            <TEXT>a double and a single bed with mainly blue and yellow bedcovers in a room with white walls and dark brown ornamental strips made of wood .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1386.eng</DOCNO>
+        <IMAGE>images/01/1386.jpg</IMAGE>
+        <SENTENCE id="s1071" start="41660" end="41717">
+            <TEXT>corner view of a house with a big writing Hotel Royal .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1072" start="41717" end="41815">
+            <TEXT>there is a travel agency ( VASP ) on the ground level , and there are power lines on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1387.eng</DOCNO>
+        <IMAGE>images/01/1387.jpg</IMAGE>
+        <SENTENCE id="s1073" start="41815" end="42000">
+            <TEXT>a room with two double beds and a night table with a lamp and a phone in between , a painting above it on the white wall , a light blue ornamental strip and a dark green on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1388.eng</DOCNO>
+        <IMAGE>images/01/1388.jpg</IMAGE>
+        <SENTENCE id="s1074" start="42000" end="42093">
+            <TEXT>the courtyard of a white and orange house with orange columns , a spa and a swimming pool .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1389.eng</DOCNO>
+        <IMAGE>images/01/1389.jpg</IMAGE>
+        <SENTENCE id="s1075" start="42093" end="42217">
+            <TEXT>a bald room with white walls , two bunk beds made of wood with white bedcovers , towels and pillows ( white and orange ) .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1392.eng</DOCNO>
+        <IMAGE>images/01/1392.jpg</IMAGE>
+        <SENTENCE id="s1076" start="42217" end="42331">
+            <TEXT>corner view of a dark yellow , two-storey house with white window and door frams and balconies with iron rails .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1393.eng</DOCNO>
+        <IMAGE>images/01/1393.jpg</IMAGE>
+        <SENTENCE id="s1077" start="42331" end="42450">
+            <TEXT>a double bed made of wood with white bedcover and two white pillows in a room with a crate and white walls above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1078" start="42450" end="42510">
+            <TEXT>there are red ornaments around the entrance on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1394.eng</DOCNO>
+        <IMAGE>images/01/1394.jpg</IMAGE>
+        <SENTENCE id="s1079" start="42510" end="42615">
+            <TEXT>front view of a dark yellow house with wooden windows , white window frames and an iron entrance gate .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1395.eng</DOCNO>
+        <IMAGE>images/01/1395.jpg</IMAGE>
+        <SENTENCE id="s1080" start="42615" end="42811">
+            <TEXT>a room with white walls and an inclined picture , two single beds made of wood on the right , a commode with a TV on the left , and in the background on the right a window with orange curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1398.eng</DOCNO>
+        <IMAGE>images/01/1398.jpg</IMAGE>
+        <SENTENCE id="s1081" start="42811" end="42864">
+            <TEXT>a red car in front of the entrance of a big hotel .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1082" start="42864" end="42921">
+            <TEXT>a tall high-rise building with a facade made of glass .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1399.eng</DOCNO>
+        <IMAGE>images/01/1399.jpg</IMAGE>
+        <SENTENCE id="s1083" start="42921" end="43147">
+            <TEXT>a room with white and grey walls , a large double bed made of wood in the foreground , an armchair , a small table and three more chairs and two lamps behind it , and a window with grey and white curtains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1400.eng</DOCNO>
+        <IMAGE>images/01/1400.jpg</IMAGE>
+        <SENTENCE id="s1084" start="43147" end="43248">
+            <TEXT>a grey car is parking in front of a grey house with brown window frames and plants on the balcony .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1401.eng</DOCNO>
+        <IMAGE>images/01/1401.jpg</IMAGE>
+        <SENTENCE id="s1085" start="43248" end="43326">
+            <TEXT>children in a swimming pool in a garden that is surrounded by a green wall .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1086" start="43326" end="43443">
+            <TEXT>there are two canvas chairs , white tables and chairs , a clothesline and a sunshade in the shade behind the pool .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1087" start="43443" end="43534">
+            <TEXT>there is also the corner of a green house on the left there are trees in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1402.eng</DOCNO>
+        <IMAGE>images/01/1402.jpg</IMAGE>
+        <SENTENCE id="s1088" start="43534" end="43584">
+            <TEXT>a sailing ship with two masts and struck sails .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1089" start="43584" end="43676">
+            <TEXT>there is a small boat on the left , and a very flat , sparse landscape in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1403.eng</DOCNO>
+        <IMAGE>images/01/1403.jpg</IMAGE>
+        <SENTENCE id="s1090" start="43676" end="43905">
+            <TEXT>front view of a house in style of the Alpes: white walls , dark brown window frames made of wood , flower boxes below the windows , a little tower with red rooftiles and two palm trees and three flags in front of the entrance .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1404.eng</DOCNO>
+        <IMAGE>images/01/1404.jpg</IMAGE>
+        <SENTENCE id="s1091" start="43905" end="43989">
+            <TEXT>a room with a double bed made of wood , light pink walls , pillows and bedcovers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1092" start="43989" end="44149">
+            <TEXT>there are night tables on both sides , a phone on the right , two lamps above the beds , a painting on the left and a window with a curtain on the very left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1407.eng</DOCNO>
+        <IMAGE>images/01/1407.jpg</IMAGE>
+        <SENTENCE id="s1093" start="44149" end="44252">
+            <TEXT>a three-storey building made of red bricks , with red doors and a blue jalousie on the ground level .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1094" start="44252" end="44310">
+            <TEXT>the uppermost level is still partly under construction .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1408.eng</DOCNO>
+        <IMAGE>images/01/1408.jpg</IMAGE>
+        <SENTENCE id="s1095" start="44310" end="44431">
+            <TEXT>a double bed made of wood with white bedcovers , two pillows and a night table on the left in a room with white walls .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1409.eng</DOCNO>
+        <IMAGE>images/01/1409.jpg</IMAGE>
+        <SENTENCE id="s1096" start="44431" end="44509">
+            <TEXT>a three-storey building with white and brown walls and lowered grey blinds .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1097" start="44509" end="44556">
+            <TEXT>the ground level is completely in the shade .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1410.eng</DOCNO>
+        <IMAGE>images/01/1410.jpg</IMAGE>
+        <SENTENCE id="s1098" start="44556" end="44798">
+            <TEXT>a room with orange walls , a double bed with a light orange bedcover , a night table on both sides of the bed , a phone and a lamp on the left side , two paintings on the wall above the bed , and a window with orange curtains on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1411.eng</DOCNO>
+        <IMAGE>images/01/1411.jpg</IMAGE>
+        <SENTENCE id="s1099" start="44798" end="44874">
+            <TEXT>an illuminated multi-storey building with a large entrance at one corner .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1412.eng</DOCNO>
+        <IMAGE>images/01/1412.jpg</IMAGE>
+        <SENTENCE id="s1100" start="44874" end="44995">
+            <TEXT>a room with green walls , two single beds made of wood , a night table with a lamp in between and a painting above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1101" start="44995" end="45061">
+            <TEXT>there is a window with a green and orange curtain on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1413.eng</DOCNO>
+        <IMAGE>images/01/1413.jpg</IMAGE>
+        <SENTENCE id="s1102" start="45061" end="45299">
+            <TEXT>a room with a dark green wall , a double bed made of wood with two yellow pillows and a brown and yellow chequered blanket , two lamps and a painting above the bed , a phone on the right and a window with an orange curtain on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1414.eng</DOCNO>
+        <IMAGE>images/01/1414.jpg</IMAGE>
+        <SENTENCE id="s1103" start="45299" end="45343">
+            <TEXT>front view of quite an alternative house .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1104" start="45343" end="45430">
+            <TEXT>the ground level has grey walls , large windows and two flower pots at the entrance .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1105" start="45430" end="45498">
+            <TEXT>there is a painted skyline and the writing Hotel Amalfi above it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1106" start="45498" end="45539">
+            <TEXT>the upper level is inclined and white .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1417.eng</DOCNO>
+        <IMAGE>images/01/1417.jpg</IMAGE>
+        <SENTENCE id="s1107" start="45539" end="45656">
+            <TEXT>front view of a house with white walls , wooden balconies , blue rails , grey columns and a brown supporting wall .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1108" start="45656" end="45748">
+            <TEXT>there are also an entrance with lots of flowers and two palm trees in front of the house .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1419.eng</DOCNO>
+        <IMAGE>images/01/1419.jpg</IMAGE>
+        <SENTENCE id="s1109" start="45748" end="45886">
+            <TEXT>a room with white walls , a blue and white bunk bed on the right and another single bed in front of a broad window with brown curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1420.eng</DOCNO>
+        <IMAGE>images/01/1420.jpg</IMAGE>
+        <SENTENCE id="s1110" start="45886" end="46036">
+            <TEXT>a two-storey terraced house with windows behind bars , a white painted entrance and flower pots on ground level , and a balcony on the upper level .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1421.eng</DOCNO>
+        <IMAGE>images/01/1421.jpg</IMAGE>
+        <SENTENCE id="s1111" start="46036" end="46107">
+            <TEXT>two single beds made of wood with white bedcovers and white pillows .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1112" start="46107" end="46173">
+            <TEXT>there is a white painted cupboard with hangers and a TV inside .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1422.eng</DOCNO>
+        <IMAGE>images/01/1422.jpg</IMAGE>
+        <SENTENCE id="s1113" start="46173" end="46297">
+            <TEXT>a light green three-storey house with white window frames and trees , sunshades and plastic chairs in front of the house .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1423.eng</DOCNO>
+        <IMAGE>images/01/1423.jpg</IMAGE>
+        <SENTENCE id="s1114" start="46297" end="46423">
+            <TEXT>a double bed made of wood with a light blue bedcover and light blue and white chequered pillows in a room with white walls .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1115" start="46423" end="46473">
+            <TEXT>there is a small carpet and a door on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1424.eng</DOCNO>
+        <IMAGE>images/01/1424.jpg</IMAGE>
+        <SENTENCE id="s1116" start="46473" end="46560">
+            <TEXT>a dark orange and grey wall with a potted plant on both sides of the white entrance .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1117" start="46560" end="46621">
+            <TEXT>there is a large Pousada Girasol sign painted on the wall .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1425.eng</DOCNO>
+        <IMAGE>images/01/1425.jpg</IMAGE>
+        <SENTENCE id="s1118" start="46621" end="46743">
+            <TEXT>two single beds made of wood with white bedcovers in a room with white walls and a window with brownish green curtains .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1426.eng</DOCNO>
+        <IMAGE>images/01/1426.jpg</IMAGE>
+        <SENTENCE id="s1119" start="46743" end="46874">
+            <TEXT>front view of a light brown , two-storey building with white window frames , a terrace with sunshades and tables in front of it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1120" start="46874" end="46944">
+            <TEXT>there is a street in the foreground and a forest in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1427.eng</DOCNO>
+        <IMAGE>images/01/1427.jpg</IMAGE>
+        <SENTENCE id="s1121" start="46944" end="47081">
+            <TEXT>a room with white and orange walls , an orange double bed with white bedcovers and a window with dark brown window frames on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1503.eng</DOCNO>
+        <IMAGE>images/01/1503.jpg</IMAGE>
+        <SENTENCE id="s1122" start="47081" end="47194">
+            <TEXT>six children in the forground , more children and also grown-ups in a canteen kind of place in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1515.eng</DOCNO>
+        <IMAGE>images/01/1515.jpg</IMAGE>
+        <SENTENCE id="s1123" start="47194" end="47223">
+            <TEXT>an alligator in the water .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1516.eng</DOCNO>
+        <IMAGE>images/01/1516.jpg</IMAGE>
+        <SENTENCE id="s1124" start="47223" end="47250">
+            <TEXT>a white ship at the sea .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1125" start="47250" end="47282">
+            <TEXT>a blue sky in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1522.eng</DOCNO>
+        <IMAGE>images/01/1522.jpg</IMAGE>
+        <SENTENCE id="s1126" start="47282" end="47367">
+            <TEXT>the end of a glacier , with broken off ice floes that are floating in front of it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1127" start="47367" end="47410">
+            <TEXT>snowcovered mountains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1531.eng</DOCNO>
+        <IMAGE>images/01/1531.jpg</IMAGE>
+        <SENTENCE id="s1128" start="47410" end="47482">
+            <TEXT>eight condors in the sky above a brown mountain landscape ( canyon ) .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1532.eng</DOCNO>
+        <IMAGE>images/01/1532.jpg</IMAGE>
+        <SENTENCE id="s1129" start="47482" end="47537">
+            <TEXT>a condor with spread wings is sailing over a canyon .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1130" start="47537" end="47588">
+            <TEXT>high , bald , brown mountains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1533.eng</DOCNO>
+        <IMAGE>images/01/1533.jpg</IMAGE>
+        <SENTENCE id="s1131" start="47588" end="47629">
+            <TEXT>a condor with spread wings in the sky .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1542.eng</DOCNO>
+        <IMAGE>images/01/1542.jpg</IMAGE>
+        <SENTENCE id="s1132" start="47629" end="47830">
+            <TEXT>a large room with a wooden table and chairs on the left , four more chairs and a large painting in the background on the right , and a window with flower pots below it in the background on the left .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1543.eng</DOCNO>
+        <IMAGE>images/01/1543.jpg</IMAGE>
+        <SENTENCE id="s1133" start="47830" end="48006">
+            <TEXT>a room with two single beds made of wood with blue bedcovers , a night table with a lamp in between , and a window with white curtains both behind the beds and on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1546.eng</DOCNO>
+        <IMAGE>images/01/1546.jpg</IMAGE>
+        <SENTENCE id="s1134" start="48006" end="48091">
+            <TEXT>a white and yellow freighter with a few containers on board , docked in a harbour .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1135" start="48091" end="48139">
+            <TEXT>there are houses and hills in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1547.eng</DOCNO>
+        <IMAGE>images/01/1547.jpg</IMAGE>
+        <SENTENCE id="s1136" start="48139" end="48215">
+            <TEXT>a white and orange freighter on the water in front of a naked , brown hill</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1550.eng</DOCNO>
+        <IMAGE>images/01/1550.jpg</IMAGE>
+        <SENTENCE id="s1137" start="48215" end="48257">
+            <TEXT>a large , white catamaran in the water .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1551.eng</DOCNO>
+        <IMAGE>images/01/1551.jpg</IMAGE>
+        <SENTENCE id="s1138" start="48257" end="48352">
+            <TEXT>a ship cabin with a double bed with blue pillows and towels on it and two windows behind it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1139" start="48352" end="48369">
+            <TEXT>water outside .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1558.eng</DOCNO>
+        <IMAGE>images/01/1558.jpg</IMAGE>
+        <SENTENCE id="s1140" start="48369" end="48514">
+            <TEXT>tourists are standing with their luggages in front of a brown , wooden house with many little towers , niches , windows and vegetation around .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1578.eng</DOCNO>
+        <IMAGE>images/01/1578.jpg</IMAGE>
+        <SENTENCE id="s1141" start="48514" end="48605">
+            <TEXT>the view of a few lakes surrounded by forests and with many mountains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1579.eng</DOCNO>
+        <IMAGE>images/01/1579.jpg</IMAGE>
+        <SENTENCE id="s1142" start="48605" end="48695">
+            <TEXT>a glacier tongue , bare stone on the right and left of it , and a snowcovered mountain .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1580.eng</DOCNO>
+        <IMAGE>images/01/1580.jpg</IMAGE>
+        <SENTENCE id="s1143" start="48695" end="48741">
+            <TEXT>the sunset over water , from a ship window .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1581.eng</DOCNO>
+        <IMAGE>images/01/1581.jpg</IMAGE>
+        <SENTENCE id="s1144" start="48741" end="48804">
+            <TEXT>A rusty ship wreck with hundreds of birds around in a fjord .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1145" start="48804" end="48880">
+            <TEXT>there is a waterfall at the wooden slopes of the fjord in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1582.eng</DOCNO>
+        <IMAGE>images/01/1582.jpg</IMAGE>
+        <SENTENCE id="s1146" start="48880" end="48947">
+            <TEXT>A mountain range with three outstanding rock summits at sunrise .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1583.eng</DOCNO>
+        <IMAGE>images/01/1583.jpg</IMAGE>
+        <SENTENCE id="s1147" start="48947" end="49051">
+            <TEXT>a frozen lake with some small icebergs and a mountain range with many snow covered summits behind it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1584.eng</DOCNO>
+        <IMAGE>images/01/1584.jpg</IMAGE>
+        <SENTENCE id="s1148" start="49051" end="49098">
+            <TEXT>a lake with a couple of mountains behind it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1149" start="49098" end="49198">
+            <TEXT>there is a snow covered summit on the left , and there are a few steep rugged rocks on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1585.eng</DOCNO>
+        <IMAGE>images/01/1585.jpg</IMAGE>
+        <SENTENCE id="s1150" start="49198" end="49267">
+            <TEXT>a gravel road , which goes toward a lake with a slight left curve .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1151" start="49267" end="49344">
+            <TEXT>there are high , cloud-imposed , snow covered mountains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1586.eng</DOCNO>
+        <IMAGE>images/01/1586.jpg</IMAGE>
+        <SENTENCE id="s1152" start="49344" end="49418">
+            <TEXT>Two poles with a good dozen signposts to different cities of the world .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1153" start="49418" end="49477">
+            <TEXT>there are house of a city and the sea in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1587.eng</DOCNO>
+        <IMAGE>images/01/1587.jpg</IMAGE>
+        <SENTENCE id="s1154" start="49477" end="49568">
+            <TEXT>a small , white houses with two columns at the entrance and an angel statue on the roof .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1155" start="49568" end="49599">
+            <TEXT>there is a man on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1588.eng</DOCNO>
+        <IMAGE>images/01/1588.jpg</IMAGE>
+        <SENTENCE id="s1156" start="49599" end="49641">
+            <TEXT>two penguins are sitting in their nest .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1589.eng</DOCNO>
+        <IMAGE>images/01/1589.jpg</IMAGE>
+        <SENTENCE id="s1157" start="49641" end="49676">
+            <TEXT>a dead-straight , two lane road .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1158" start="49676" end="49750">
+            <TEXT>a flat grass landscape on both the right and the left side of the road .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1590.eng</DOCNO>
+        <IMAGE>images/01/1590.jpg</IMAGE>
+        <SENTENCE id="s1159" start="49750" end="49826">
+            <TEXT>two all-terrain vehicles on a muddy road , with the forest on both sides .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1591.eng</DOCNO>
+        <IMAGE>images/01/1591.jpg</IMAGE>
+        <SENTENCE id="s1160" start="49826" end="49870">
+            <TEXT>sea lions and comorants on a rock island .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1161" start="49870" end="49915">
+            <TEXT>there are big mountains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1596.eng</DOCNO>
+        <IMAGE>images/01/1596.jpg</IMAGE>
+        <SENTENCE id="s1162" start="49915" end="49932">
+            <TEXT>Myrtle forest .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1608.eng</DOCNO>
+        <IMAGE>images/01/1608.jpg</IMAGE>
+        <SENTENCE id="s1163" start="49932" end="49983">
+            <TEXT>children sitting around two white , round desks .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1653.eng</DOCNO>
+        <IMAGE>images/01/1653.jpg</IMAGE>
+        <SENTENCE id="s1164" start="49983" end="50025">
+            <TEXT>a photo of eleven dark-haired children .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1657.eng</DOCNO>
+        <IMAGE>images/01/1657.jpg</IMAGE>
+        <SENTENCE id="s1165" start="50025" end="50134">
+            <TEXT>a tourist is distributing tangerines to the children that are sitting around a round table in a classroom .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1690.eng</DOCNO>
+        <IMAGE>images/01/1690.jpg</IMAGE>
+        <SENTENCE id="s1166" start="50134" end="50195">
+            <TEXT>the head of a turtle with an open mouth and a leaf inside .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1692.eng</DOCNO>
+        <IMAGE>images/01/1692.jpg</IMAGE>
+        <SENTENCE id="s1167" start="50195" end="50283">
+            <TEXT>a white sailing ship with two masts and four hoisted sails and a few people on board .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1703.eng</DOCNO>
+        <IMAGE>images/01/1703.jpg</IMAGE>
+        <SENTENCE id="s1168" start="50283" end="50357">
+            <TEXT>a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1708.eng</DOCNO>
+        <IMAGE>images/01/1708.jpg</IMAGE>
+        <SENTENCE id="s1169" start="50357" end="50425">
+            <TEXT>a white catamaran with one mast and two yellow kayaks on the sea .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1709.eng</DOCNO>
+        <IMAGE>images/01/1709.jpg</IMAGE>
+        <SENTENCE id="s1170" start="50425" end="50518">
+            <TEXT>an all-terrain vehicle with a blue luggage bag on the roof during a trip on a gravel road .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1171" start="50518" end="50586">
+            <TEXT>there are alpacas on a brown grass area , crossed by many creeks .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1714.eng</DOCNO>
+        <IMAGE>images/01/1714.jpg</IMAGE>
+        <SENTENCE id="s1172" start="50586" end="50680">
+            <TEXT>a square with a statue in the centre and lots people , birds , trees and a fence around it .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1173" start="50680" end="50762">
+            <TEXT>there is a large building with many windows and columns and a cupola behind it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1715.eng</DOCNO>
+        <IMAGE>images/01/1715.jpg</IMAGE>
+        <SENTENCE id="s1174" start="50762" end="50815">
+            <TEXT>a salt lake with the reflection of sky and clouds .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1716.eng</DOCNO>
+        <IMAGE>images/01/1716.jpg</IMAGE>
+        <SENTENCE id="s1175" start="50815" end="50858">
+            <TEXT>four persons with a jeep on a salt lake .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1176" start="50858" end="50981">
+            <TEXT>there is a little pile of salt in the foreground on the right , and a few flat mountains in the background on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1717.eng</DOCNO>
+        <IMAGE>images/01/1717.jpg</IMAGE>
+        <SENTENCE id="s1177" start="50981" end="51058">
+            <TEXT>a rock with a very narrow bottom part in the middle of a red sandy desert .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1719.eng</DOCNO>
+        <IMAGE>images/01/1719.jpg</IMAGE>
+        <SENTENCE id="s1178" start="51058" end="51154">
+            <TEXT>a statue of a rider on a base of bricks , surrounded by a blooming bush and a few palm trees .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1179" start="51154" end="51206">
+            <TEXT>there is a huge glass building in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1720.eng</DOCNO>
+        <IMAGE>images/01/1720.jpg</IMAGE>
+        <SENTENCE id="s1180" start="51206" end="51276">
+            <TEXT>the bizare landscape of the Isla del Pescado with all the cactuses .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1721.eng</DOCNO>
+        <IMAGE>images/01/1721.jpg</IMAGE>
+        <SENTENCE id="s1181" start="51276" end="51357">
+            <TEXT>a man and a woman are bathing in the hot , steaming springs on a flat plateau .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1722.eng</DOCNO>
+        <IMAGE>images/01/1722.jpg</IMAGE>
+        <SENTENCE id="s1182" start="51357" end="51401">
+            <TEXT>a desert landscape with steaming geysers .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1183" start="51401" end="51448">
+            <TEXT>there are three people close to the geysers .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1724.eng</DOCNO>
+        <IMAGE>images/01/1724.jpg</IMAGE>
+        <SENTENCE id="s1184" start="51448" end="51558">
+            <TEXT>the view of a large city in a basin with mountains in the background , one of them with snow at the summit .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1725.eng</DOCNO>
+        <IMAGE>images/01/1725.jpg</IMAGE>
+        <SENTENCE id="s1185" start="51558" end="51649">
+            <TEXT>tourists are kneeing at a lookout and are taking pictures of a city in a basin at night .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1186" start="51649" end="51682">
+            <TEXT>there is one summit with snow .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1726.eng</DOCNO>
+        <IMAGE>images/01/1726.jpg</IMAGE>
+        <SENTENCE id="s1187" start="51682" end="51703">
+            <TEXT>a city in a basin .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1188" start="51703" end="51867">
+            <TEXT>there are housed made of red bricks and corrugated sheet roofs in the foreground , high-rise buildings in the centre and snowcovered mountains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1729.eng</DOCNO>
+        <IMAGE>images/01/1729.jpg</IMAGE>
+        <SENTENCE id="s1189" start="51867" end="51892">
+            <TEXT>five people on a boat .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1190" start="51892" end="51933">
+            <TEXT>a hill in the background on the right .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1730.eng</DOCNO>
+        <IMAGE>images/01/1730.jpg</IMAGE>
+        <SENTENCE id="s1191" start="51933" end="52000">
+            <TEXT>eight grown-ups are posing in front of a green and white church .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1731.eng</DOCNO>
+        <IMAGE>images/01/1731.jpg</IMAGE>
+        <SENTENCE id="s1192" start="52000" end="52088">
+            <TEXT>Cactuses on a rocky slope in the foreground and a flat salt desert in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1732.eng</DOCNO>
+        <IMAGE>images/01/1732.jpg</IMAGE>
+        <SENTENCE id="s1193" start="52088" end="52150">
+            <TEXT>Five persons are posing in front of an all-terrain vehicle .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1194" start="52150" end="52211">
+            <TEXT>there is a lagoon behind it and a mountain at the horizon .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1734.eng</DOCNO>
+        <IMAGE>images/01/1734.jpg</IMAGE>
+        <SENTENCE id="s1195" start="52211" end="52286">
+            <TEXT>two underexposed cactuses , behind them a salt lake and the setting sun .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1735.eng</DOCNO>
+        <IMAGE>images/01/1735.jpg</IMAGE>
+        <SENTENCE id="s1196" start="52286" end="52374">
+            <TEXT>Cactuses on a rocky slope in the foreground and a flat salt desert in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1737.eng</DOCNO>
+        <IMAGE>images/01/1737.jpg</IMAGE>
+        <SENTENCE id="s1197" start="52374" end="52501">
+            <TEXT>a group picture of seven grown-ups next to two large cactuses on a rock island , with a white salt desert in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1739.eng</DOCNO>
+        <IMAGE>images/01/1739.jpg</IMAGE>
+        <SENTENCE id="s1198" start="52501" end="52546">
+            <TEXT>four tourists are standing in hot springs .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1199" start="52546" end="52622">
+            <TEXT>there is a flat desert landscape with more hot springs in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1740.eng</DOCNO>
+        <IMAGE>images/01/1740.jpg</IMAGE>
+        <SENTENCE id="s1200" start="52622" end="52655">
+            <TEXT>Cactuses on a very rocky hill .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1741.eng</DOCNO>
+        <IMAGE>images/01/1741.jpg</IMAGE>
+        <SENTENCE id="s1201" start="52655" end="52715">
+            <TEXT>a jeep is driving on a gravel road in a dry stone desert .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1202" start="52715" end="52796">
+            <TEXT>there is a slope of black stones on the right and a dust cloud behind the car .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1742.eng</DOCNO>
+        <IMAGE>images/01/1742.jpg</IMAGE>
+        <SENTENCE id="s1203" start="52796" end="52884">
+            <TEXT>two llamas in front of a salt lagoon , with snow covered mountains in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1744.eng</DOCNO>
+        <IMAGE>images/01/1744.jpg</IMAGE>
+        <SENTENCE id="s1204" start="52884" end="52944">
+            <TEXT>Hot springs in the middle in a flat dry desert landscape .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1205" start="52944" end="52989">
+            <TEXT>a man in a natural pool in the foreground .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1206" start="52989" end="53027">
+            <TEXT>a mountain range in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1745.eng</DOCNO>
+        <IMAGE>images/01/1745.jpg</IMAGE>
+        <SENTENCE id="s1207" start="53027" end="53075">
+            <TEXT>a lake with a snow covered volcano behind it .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1746.eng</DOCNO>
+        <IMAGE>images/01/1746.jpg</IMAGE>
+        <SENTENCE id="s1208" start="53075" end="53184">
+            <TEXT>two children on a bench , the one on the left with a pink hood , the on on the right wearing a brown vest .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1747.eng</DOCNO>
+        <IMAGE>images/01/1747.jpg</IMAGE>
+        <SENTENCE id="s1209" start="53184" end="53244">
+            <TEXT>locals are sitting on the street and are receiving bread .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1749.eng</DOCNO>
+        <IMAGE>images/01/1749.jpg</IMAGE>
+        <SENTENCE id="s1210" start="53244" end="53310">
+            <TEXT>a woman is feeding a man , another man is sitting next to them .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1211" start="53310" end="53365">
+            <TEXT>there are pallets and a grey wall in the background .</TEXT>
+        </SENTENCE>
+    </SCENE>
+    <SCENE>
+        <DOCNO>annotations/01/1751.eng</DOCNO>
+        <IMAGE>images/01/1751.jpg</IMAGE>
+        <SENTENCE id="s1212" start="53365" end="53418">
+            <TEXT>a tourist with three children in front of a fence .</TEXT>
+        </SENTENCE>
+        <SENTENCE id="s1213" start="53418" end="53549">
+            <TEXT>one child is carrying shoe-cleaning equipment , the one on the left is holding a cup , the other one is hanging on to the fence .</TEXT>
+        </SENTENCE>
+    </SCENE>
+</SpRL>

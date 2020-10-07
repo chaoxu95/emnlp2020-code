@@ -1,0 +1,1579 @@
+begin a WSC example........................................
+The trophy doesn't fit into the brown suitcase because it is too large.
+******************** sentence ********************
+The trophy doesn't fit into the brown suitcase because it is too large.
+-----------   begin motion construction  -----------
+action:fit
+ground:into/the brown suitcase
+agent:
+figure:The trophy
+source:['exterior of the brown suitcase']
+goal:['interior of the brown suitcase']
+via:['portal of the brown suitcase']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The trophy doesn't fit into the brown suitcase because it is too small.
+******************** sentence ********************
+The trophy doesn't fit into the brown suitcase because it is too small.
+-----------   begin motion construction  -----------
+action:fit
+ground:into/the brown suitcase
+agent:
+figure:The trophy
+source:['exterior of the brown suitcase']
+goal:['interior of the brown suitcase']
+via:['portal of the brown suitcase']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The delivery truck zoomed by the school bus because it was going so fast.
+******************** sentence ********************
+The delivery truck zoomed by the school bus because it was going so fast.
+-----------   begin motion construction  -----------
+action:zoomed
+ground:by/the school bus
+agent:
+figure:The delivery truck
+source:['unknown']
+goal:['unknown']
+via:['a new point near from the school bus']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The delivery truck zoomed by the school bus because it was going so slow.
+******************** sentence ********************
+The delivery truck zoomed by the school bus because it was going so slow.
+-----------   begin motion construction  -----------
+action:zoomed
+ground:by/the school bus
+agent:
+figure:The delivery truck
+source:['unknown']
+goal:['unknown']
+via:['a new point near from the school bus']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The large ball crashed right through the table because it was made of steel.
+******************** sentence ********************
+The large ball crashed right through the table because it was made of steel.
+-----------   begin motion construction  -----------
+action:crashed
+ground:through/the table
+agent:
+figure:The large ball
+source:['one side of the table']
+goal:['the other side of the table']
+via:['a new point inside of the table']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The large ball crashed right through the table because it was made of styrofoam.
+******************** sentence ********************
+The large ball crashed right through the table because it was made of styrofoam.
+-----------   begin motion construction  -----------
+action:crashed
+ground:through/the table
+agent:
+figure:The large ball
+source:['one side of the table']
+goal:['the other side of the table']
+via:['a new point inside of the table']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+John couldn't see the stage with Billy in front of him because he is so short.
+******************** sentence ********************
+John couldn't see the stage with Billy in front of him because he is so short.
+-----------  begin locative construction -----------
+relation:in front of
+figure:the stage
+figure:Billy
+ground:him
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+John couldn't see the stage with Billy in front of him because he is so tall.
+******************** sentence ********************
+John couldn't see the stage with Billy in front of him because he is so tall.
+-----------  begin locative construction -----------
+relation:in front of
+figure:the stage
+figure:Billy
+ground:him
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Tom threw his schoolbag down to Ray after he got to the top of the stairs.
+******************** sentence ********************
+Tom threw his schoolbag down to Ray after he got to the top of the stairs.
+-----------  begin locative construction -----------
+relation:after
+figure:Ray
+ground:he
+-----------   end locative construction  -----------
+-----------   begin motion construction  -----------
+action:threw
+ground:down/Ray;to/Ray
+agent:Tom
+figure:his schoolbag
+source:['higher place']
+goal:['Ray', 'lower place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Tom threw his schoolbag down to Ray after he got to the bottom of the stairs.
+******************** sentence ********************
+Tom threw his schoolbag down to Ray after he got to the bottom of the stairs.
+-----------  begin locative construction -----------
+relation:after
+figure:Ray
+ground:he
+-----------   end locative construction  -----------
+-----------   begin motion construction  -----------
+action:threw
+ground:down/Ray;to/Ray
+agent:Tom
+figure:his schoolbag
+source:['higher place']
+goal:['Ray', 'lower place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The sculpture rolled off the shelf because it wasn't anchored.
+******************** sentence ********************
+The sculpture rolled off the shelf because it wasn't anchored.
+-----------   begin motion construction  -----------
+action:rolled
+ground:off/the shelf
+agent:
+figure:The sculpture
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The sculpture rolled off the shelf because it wasn't level.
+******************** sentence ********************
+The sculpture rolled off the shelf because it wasn't level.
+-----------   begin motion construction  -----------
+action:rolled
+ground:off/the shelf
+agent:
+figure:The sculpture
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Sam's drawing was hung just above Tina's and it did look much better with another one below it.
+******************** sentence ********************
+Sam's drawing was hung just above Tina's and it did look much better with another one below it.
+-----------  begin locative construction -----------
+relation:above
+figure:Sam's drawing
+ground:Tina's
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Sam's drawing was hung just above Tina's and it did look much better with another one above it.
+******************** sentence ********************
+Sam's drawing was hung just above Tina's and it did look much better with another one above it.
+-----------  begin locative construction -----------
+relation:above
+figure:Sam's drawing
+ground:Tina's
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The sack of potatoes had been placed above the bag of flour, so it had to be moved first.
+******************** sentence ********************
+The sack of potatoes had been placed above the bag of flour, so it had to be moved first.
+-----------   begin motion construction  -----------
+action:placed
+ground:above/the bag of flour
+agent:
+figure:The sack of potatoes
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The sack of potatoes had been placed below the bag of flour, so it had to be moved first.
+******************** sentence ********************
+The sack of potatoes had been placed below the bag of flour, so it had to be moved first.
+-----------   begin motion construction  -----------
+action:placed
+ground:below/the bag of flour
+agent:
+figure:The sack of potatoes
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I poured water from the bottle into the cup until it was empty.
+******************** sentence ********************
+I poured water from the bottle into the cup until it was empty.
+-----------   begin motion construction  -----------
+action:poured
+ground:from/the bottle;into/the cup
+agent:I
+figure:water
+source:['the bottle', 'exterior of the cup']
+goal:['interior of the cup']
+via:['portal of the cup']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I poured water from the bottle into the cup until it was full.
+******************** sentence ********************
+I poured water from the bottle into the cup until it was full.
+-----------   begin motion construction  -----------
+action:poured
+ground:from/the bottle;into/the cup
+agent:I
+figure:water
+source:['the bottle', 'exterior of the cup']
+goal:['interior of the cup']
+via:['portal of the cup']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.
+******************** sentence ********************
+The painting in Mark's living room shows an oak tree.
+-----------  begin locative construction -----------
+relation:in
+figure:The painting
+ground:Mark's living room
+-----------   end locative construction  -----------
+******************** sentence ********************
+It is to the right of the bookcase.
+-----------  begin locative construction -----------
+relation:to the right of
+figure:It
+ground:the bookcase
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The painting in Mark's living room shows an oak tree. It is to the right of a house.
+******************** sentence ********************
+The painting in Mark's living room shows an oak tree.
+-----------  begin locative construction -----------
+relation:in
+figure:The painting
+ground:Mark's living room
+-----------   end locative construction  -----------
+******************** sentence ********************
+It is to the right of a house.
+-----------  begin locative construction -----------
+relation:to the right of
+figure:It
+ground:a house
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+There is a gap in the wall. You can see the garden through it.
+******************** sentence ********************
+There is a gap in the wall.
+-----------  begin locative construction -----------
+relation:in
+figure:a gap
+ground:the wall
+-----------   end locative construction  -----------
+******************** sentence ********************
+You can see the garden through it.
+...........................................................
+
+
+
+begin a WSC example........................................
+There is a gap in the wall. You can see the garden behind it.
+******************** sentence ********************
+There is a gap in the wall.
+-----------  begin locative construction -----------
+relation:in
+figure:a gap
+ground:the wall
+-----------   end locative construction  -----------
+******************** sentence ********************
+You can see the garden behind it.
+-----------  begin locative construction -----------
+relation:behind
+figure:the garden
+ground:it
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+There is a pillar between me and the stage, and I can't see around it.
+******************** sentence ********************
+There is a pillar between me and the stage, and I can't see around it.
+-----------  begin locative construction -----------
+relation:between
+figure:a pillar
+ground:me
+ground:the stage
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+There is a pillar between me and the stage, and I can't see it.
+******************** sentence ********************
+There is a pillar between me and the stage, and I can't see it.
+-----------  begin locative construction -----------
+relation:between
+figure:a pillar
+ground:me
+ground:the stage
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I used an old rag to clean the knife, and then I put it in the trash.
+******************** sentence ********************
+I used an old rag to clean the knife, and then I put it in the trash.
+-----------   begin motion construction  -----------
+action:clean
+ground:in/the trash
+agent:I
+figure:an old rag
+source:['exterior of the trash']
+goal:['interior of the trash']
+via:['portal of the trash']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I used an old rag to clean the knife, and then I put it in the drawer.
+******************** sentence ********************
+I used an old rag to clean the knife, and then I put it in the drawer.
+-----------   begin motion construction  -----------
+action:clean
+ground:in/the drawer
+agent:I
+figure:an old rag
+source:['exterior of the drawer']
+goal:['interior of the drawer']
+via:['portal of the drawer']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I took the water bottle out of the backpack so that it would be handy.
+******************** sentence ********************
+I took the water bottle out of the backpack so that it would be handy.
+-----------   begin motion construction  -----------
+action:took
+ground:out of/the backpack
+agent:I
+figure:the water bottle
+source:['interior of the backpack']
+goal:['exterior of the backpack']
+via:['portal of the backpack']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I took the water bottle out of the backpack so that it would be lighter.
+******************** sentence ********************
+I took the water bottle out of the backpack so that it would be lighter.
+-----------   begin motion construction  -----------
+action:took
+ground:out of/the backpack
+agent:I
+figure:the water bottle
+source:['interior of the backpack']
+goal:['exterior of the backpack']
+via:['portal of the backpack']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I couldn't put the pot on the shelf because it was too tall.
+******************** sentence ********************
+I couldn't put the pot on the shelf because it was too tall.
+-----------   begin motion construction  -----------
+action:put
+ground:on/the shelf
+agent:I
+figure:the pot
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I couldn't put the pot on the shelf because it was too high.
+******************** sentence ********************
+I couldn't put the pot on the shelf because it was too high.
+-----------   begin motion construction  -----------
+action:put
+ground:on/the shelf
+agent:I
+figure:the pot
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.
+******************** sentence ********************
+The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.
+-----------  begin locative construction -----------
+relation:by
+figure:The cat
+ground:the mouse hole
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.
+******************** sentence ********************
+The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.
+-----------  begin locative construction -----------
+relation:by
+figure:The cat
+ground:the mouse hole
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.
+******************** sentence ********************
+I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.
+...........................................................
+
+
+
+begin a WSC example........................................
+I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out.
+******************** sentence ********************
+I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out.
+...........................................................
+
+
+
+begin a WSC example........................................
+The dog chased the cat, which ran up a tree. It waited at the bottom.
+******************** sentence ********************
+The dog chased the cat, which ran up a tree.
+-----------   begin motion construction  -----------
+action:chased
+ground:up/a tree
+agent:The dog
+figure:the cat
+source:['lower place']
+goal:['higher place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+It waited at the bottom.
+...........................................................
+
+
+
+begin a WSC example........................................
+The dog chased the cat, which ran up a tree. It waited at the top.
+******************** sentence ********************
+The dog chased the cat, which ran up a tree.
+-----------   begin motion construction  -----------
+action:chased
+ground:up/a tree
+agent:The dog
+figure:the cat
+source:['lower place']
+goal:['higher place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+It waited at the top.
+...........................................................
+
+
+
+begin a WSC example........................................
+In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.
+******************** sentence ********************
+In the storm, the tree fell down and crashed through the roof of my house.
+-----------   begin motion construction  -----------
+action:fell
+ground:down/ground is omitted
+agent:
+figure:the tree
+source:['higher place']
+goal:['lower place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+Now, I have to get it removed.
+...........................................................
+
+
+
+begin a WSC example........................................
+In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.
+******************** sentence ********************
+In the storm, the tree fell down and crashed through the roof of my house.
+-----------   begin motion construction  -----------
+action:fell
+ground:down/ground is omitted
+agent:
+figure:the tree
+source:['higher place']
+goal:['lower place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+Now, I have to get it repaired.
+...........................................................
+
+
+
+begin a WSC example........................................
+The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.
+******************** sentence ********************
+The customer walked into the bank and stabbed one of the tellers.
+-----------   begin motion construction  -----------
+action:walked
+ground:into/the bank
+agent:
+figure:The customer
+source:['exterior of the bank']
+goal:['interior of the bank']
+via:['portal of the bank']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+He was immediately taken to the police station.
+-----------   begin motion construction  -----------
+action:taken
+ground:to/the police station
+agent:
+figure:He
+source:['unknown']
+goal:['the police station']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.
+******************** sentence ********************
+The customer walked into the bank and stabbed one of the tellers.
+-----------   begin motion construction  -----------
+action:walked
+ground:into/the bank
+agent:
+figure:The customer
+source:['exterior of the bank']
+goal:['interior of the bank']
+via:['portal of the bank']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+He was immediately taken to the hospital.
+-----------   begin motion construction  -----------
+action:taken
+ground:to/the hospital
+agent:
+figure:He
+source:['unknown']
+goal:['the hospital']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Joe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.
+******************** sentence ********************
+Joe has sold his house and bought a new one a few miles away.
+******************** sentence ********************
+He will be moving out of it on Thursday.
+-----------   begin motion construction  -----------
+action:moving
+ground:out of/it
+agent:
+figure:He
+source:['interior of it']
+goal:['exterior of it']
+via:['portal of it']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.
+******************** sentence ********************
+Joe has sold his house and bought a new one a few miles away.
+******************** sentence ********************
+He will be moving into it on Thursday.
+-----------   begin motion construction  -----------
+action:moving
+ground:into/it
+agent:
+figure:He
+source:['exterior of it']
+goal:['interior of it']
+via:['portal of it']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Sam pulled up a chair to the piano, but it was broken, so he had to stand instead.
+******************** sentence ********************
+Sam pulled up a chair to the piano, but it was broken, so he had to stand instead.
+-----------   begin motion construction  -----------
+action:pulled
+ground:up/a chair;to/the piano
+agent:
+figure:Sam
+source:['lower place']
+goal:['the piano', 'higher place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.
+******************** sentence ********************
+Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.
+-----------   begin motion construction  -----------
+action:pulled
+ground:up/a chair;to/the piano
+agent:
+figure:Sam
+source:['lower place']
+goal:['the piano', 'higher place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Since it was raining, I carried the newspaper in my backpack to keep it dry.
+******************** sentence ********************
+Since it was raining, I carried the newspaper in my backpack to keep it dry.
+-----------   begin motion construction  -----------
+action:carried
+ground:in/my backpack
+agent:I
+figure:the newspaper
+source:['exterior of my backpack']
+goal:['interior of my backpack']
+via:['portal of my backpack']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Since it was raining, I carried the newspaper over my backpack to keep it dry.
+******************** sentence ********************
+Since it was raining, I carried the newspaper over my backpack to keep it dry.
+-----------   begin motion construction  -----------
+action:carried
+ground:over/my backpack
+agent:I
+figure:the newspaper
+source:['unknown']
+goal:['higher than']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Jane knocked on the door, and Susan answered it. She invited her to come out.
+******************** sentence ********************
+Jane knocked on the door, and Susan answered it.
+-----------   begin motion construction  -----------
+action:knocked
+ground:on/the door
+agent:
+figure:Jane
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+She invited her to come out.
+...........................................................
+
+
+
+begin a WSC example........................................
+Jane knocked on the door, and Susan answered it. She invited her to come in.
+******************** sentence ********************
+Jane knocked on the door, and Susan answered it.
+-----------   begin motion construction  -----------
+action:knocked
+ground:on/the door
+agent:
+figure:Jane
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+She invited her to come in.
+...........................................................
+
+
+
+begin a WSC example........................................
+Mary tucked her daughter Anne into bed, so that she could work.
+******************** sentence ********************
+Mary tucked her daughter Anne into bed, so that she could work.
+-----------   begin motion construction  -----------
+action:tucked
+ground:into/bed
+agent:Mary
+figure:
+source:['exterior of bed']
+goal:['interior of bed']
+via:['portal of bed']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Mary tucked her daughter Anne into bed, so that she could sleep.
+******************** sentence ********************
+Mary tucked her daughter Anne into bed, so that she could sleep.
+-----------   begin motion construction  -----------
+action:tucked
+ground:into/bed
+agent:Mary
+figure:
+source:['exterior of bed']
+goal:['interior of bed']
+via:['portal of bed']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Fred watched TV while George went out to buy groceries. After an hour he got up.
+******************** sentence ********************
+Fred watched TV while George went out to buy groceries.
+-----------   begin motion construction  -----------
+action:went
+ground:out/ground is omitted
+agent:
+figure:Fred
+source:['interior of unknown ground']
+goal:['exterior of unknown ground']
+via:['portal of unknown ground']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+After an hour he got up.
+...........................................................
+
+
+
+begin a WSC example........................................
+Fred watched TV while George went out to buy groceries. After an hour he got back.
+******************** sentence ********************
+Fred watched TV while George went out to buy groceries.
+-----------   begin motion construction  -----------
+action:went
+ground:out/ground is omitted
+agent:
+figure:Fred
+source:['interior of unknown ground']
+goal:['exterior of unknown ground']
+via:['portal of unknown ground']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+After an hour he got back.
+...........................................................
+
+
+
+begin a WSC example........................................
+Look! There is a minnow swimming right below that duck! It had better get away to safety fast!
+******************** sentence ********************
+Look!
+******************** sentence ********************
+There is a minnow swimming right below that duck!
+-----------  begin locative construction -----------
+relation:below
+figure:a minnow swimming
+ground:that duck
+-----------   end locative construction  -----------
+******************** sentence ********************
+It had better get away to safety fast!
+...........................................................
+
+
+
+begin a WSC example........................................
+Look! There is a shark swimming right below that duck! It had better get away to safety fast!
+******************** sentence ********************
+Look!
+******************** sentence ********************
+There is a shark swimming right below that duck!
+-----------  begin locative construction -----------
+relation:below
+figure:a shark swimming
+ground:that duck
+-----------   end locative construction  -----------
+******************** sentence ********************
+It had better get away to safety fast!
+...........................................................
+
+
+
+begin a WSC example........................................
+I put the cake away in the refrigerator. It has a lot of butter in it.
+******************** sentence ********************
+I put the cake away in the refrigerator.
+-----------   begin motion construction  -----------
+action:put
+ground:in/the refrigerator
+agent:I
+figure:the cake
+source:['exterior of the refrigerator']
+goal:['interior of the refrigerator']
+via:['portal of the refrigerator']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+It has a lot of butter in it.
+-----------  begin locative construction -----------
+relation:in
+figure:a lot of butter
+ground:it
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I put the cake away in the refrigerator. It has a lot of leftovers in it.
+******************** sentence ********************
+I put the cake away in the refrigerator.
+-----------   begin motion construction  -----------
+action:put
+ground:in/the refrigerator
+agent:I
+figure:the cake
+source:['exterior of the refrigerator']
+goal:['interior of the refrigerator']
+via:['portal of the refrigerator']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+It has a lot of leftovers in it.
+-----------  begin locative construction -----------
+relation:in
+figure:a lot of leftovers
+ground:it
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them.
+******************** sentence ********************
+We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them.
+-----------  begin locative construction -----------
+relation:in
+figure:the chairs
+ground:the auditorium
+-----------   end locative construction  -----------
+-----------  begin locative construction -----------
+relation:on
+figure:copies of our newsletter
+ground:the chairs
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them.
+******************** sentence ********************
+We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them.
+-----------  begin locative construction -----------
+relation:in
+figure:the chairs
+ground:the auditorium
+-----------   end locative construction  -----------
+-----------  begin locative construction -----------
+relation:on
+figure:copies of our newsletter
+ground:the chairs
+-----------   end locative construction  -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I stuck a pin through a carrot. When I pulled the pin out, it left a hole.
+******************** sentence ********************
+I stuck a pin through a carrot.
+-----------   begin motion construction  -----------
+action:stuck
+ground:through/a carrot
+agent:I
+figure:a pin
+source:['one side of a carrot']
+goal:['the other side of a carrot']
+via:['a new point inside of a carrot']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+When I pulled the pin out, it left a hole.
+-----------   begin motion construction  -----------
+action:pulled
+ground:out/it
+agent:I
+figure:the pin
+source:['interior of it']
+goal:['exterior of it']
+via:['portal of it']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I stuck a pin through a carrot. When I pulled the pin out, it had a hole.
+******************** sentence ********************
+I stuck a pin through a carrot.
+-----------   begin motion construction  -----------
+action:stuck
+ground:through/a carrot
+agent:I
+figure:a pin
+source:['one side of a carrot']
+goal:['the other side of a carrot']
+via:['a new point inside of a carrot']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+******************** sentence ********************
+When I pulled the pin out, it had a hole.
+-----------   begin motion construction  -----------
+action:pulled
+ground:out/it
+agent:I
+figure:the pin
+source:['interior of it']
+goal:['exterior of it']
+via:['portal of it']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The table won't fit through the doorway because it is too wide.
+******************** sentence ********************
+The table won't fit through the doorway because it is too wide.
+-----------   begin motion construction  -----------
+action:fit
+ground:through/the doorway
+agent:
+figure:The table
+source:['one side of the doorway']
+goal:['the other side of the doorway']
+via:['a new point inside of the doorway']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The table won't fit through the doorway because it is too narrow.
+******************** sentence ********************
+The table won't fit through the doorway because it is too narrow.
+-----------   begin motion construction  -----------
+action:fit
+ground:through/the doorway
+agent:
+figure:The table
+source:['one side of the doorway']
+goal:['the other side of the doorway']
+via:['a new point inside of the doorway']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+As Andrea in the crop duster passed by over Susan, she could see the landing strip.
+******************** sentence ********************
+As Andrea in the crop duster passed by over Susan, she could see the landing strip.
+-----------  begin locative construction -----------
+relation:in
+figure:Andrea
+ground:the crop duster
+-----------   end locative construction  -----------
+-----------   begin motion construction  -----------
+action:passed
+ground:by/Susan;over/Susan
+agent:
+figure:the crop duster
+source:['unknown']
+goal:['higher than']
+via:['a new point near from Susan']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+As Andrea in the crop duster passed by over Susan, she could see the landing gear.
+******************** sentence ********************
+As Andrea in the crop duster passed by over Susan, she could see the landing gear.
+-----------  begin locative construction -----------
+relation:in
+figure:Andrea
+ground:the crop duster
+-----------   end locative construction  -----------
+-----------   begin motion construction  -----------
+action:passed
+ground:by/Susan;over/Susan
+agent:
+figure:the crop duster
+source:['unknown']
+goal:['higher than']
+via:['a new point near from Susan']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Bill passed by the half-empty plate to John because he was full.
+******************** sentence ********************
+Bill passed by the half-empty plate to John because he was full.
+-----------   begin motion construction  -----------
+action:passed
+ground:by/the half-empty plate;to/John
+agent:
+figure:Bill
+source:['unknown']
+goal:['John']
+via:['a new point near from the half-empty plate']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Bill passed by the half-empty plate to John because he was hungry.
+******************** sentence ********************
+Bill passed by the half-empty plate to John because he was hungry.
+-----------   begin motion construction  -----------
+action:passed
+ground:by/the half-empty plate;to/John
+agent:
+figure:Bill
+source:['unknown']
+goal:['John']
+via:['a new point near from the half-empty plate']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Bill passed by the gameboy to John because his turn was over.
+******************** sentence ********************
+Bill passed by the gameboy to John because his turn was over.
+-----------   begin motion construction  -----------
+action:passed
+ground:by/the gameboy;to/John
+agent:
+figure:Bill
+source:['unknown']
+goal:['John']
+via:['a new point near from the gameboy']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Bill passed by the gameboy to John because his turn was next.
+******************** sentence ********************
+Bill passed by the gameboy to John because his turn was next.
+-----------   begin motion construction  -----------
+action:passed
+ground:by/the gameboy;to/John
+agent:
+figure:Bill
+source:['unknown']
+goal:['John']
+via:['a new point near from the gameboy']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The man lifted the boy onto his shoulders.
+******************** sentence ********************
+The man lifted the boy onto his shoulders.
+-----------   begin motion construction  -----------
+action:lifted
+ground:onto/his shoulders
+agent:The man
+figure:the boy
+source:['unknown']
+goal:['surface of his shoulders']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The man lifted the boy onto his bunk bed.
+******************** sentence ********************
+The man lifted the boy onto his bunk bed.
+-----------   begin motion construction  -----------
+action:lifted
+ground:onto/his bunk bed
+agent:The man
+figure:the boy
+source:['unknown']
+goal:['surface of his bunk bed']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+As Ollie carried Tommy up the long winding steps, his legs ached.
+******************** sentence ********************
+As Ollie carried Tommy up the long winding steps, his legs ached.
+-----------   begin motion construction  -----------
+action:carried
+ground:up/the long winding steps
+agent:Ollie
+figure:Tommy
+source:['lower place']
+goal:['higher place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+As Ollie carried Tommy up the long winding steps, his legs dangled.
+******************** sentence ********************
+As Ollie carried Tommy up the long winding steps, his legs dangled.
+-----------   begin motion construction  -----------
+action:carried
+ground:up/the long winding steps
+agent:Ollie
+figure:Tommy
+source:['lower place']
+goal:['higher place']
+via:['unknown']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The father carried the sleeping boy in his arms
+******************** sentence ********************
+The father carried the sleeping boy in his arms
+-----------   begin motion construction  -----------
+action:carried
+ground:in/his arms
+agent:The father
+figure:the sleeping boy
+source:['exterior of his arms']
+goal:['interior of his arms']
+via:['portal of his arms']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+The father carried the sleeping boy in his bassinet.
+******************** sentence ********************
+The father carried the sleeping boy in his bassinet.
+-----------   begin motion construction  -----------
+action:carried
+ground:in/his bassinet
+agent:The father
+figure:the sleeping boy
+source:['exterior of his bassinet']
+goal:['interior of his bassinet']
+via:['portal of his bassinet']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Emma did not pass by the ball to Janie although she saw that she was open.
+******************** sentence ********************
+Emma did not pass by the ball to Janie although she saw that she was open.
+-----------   begin motion construction  -----------
+action:pass
+ground:by/the ball;to/Janie
+agent:
+figure:Emma
+source:['unknown']
+goal:['Janie']
+via:['a new point near from the ball']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+Emma did not pass by the ball to Janie although she was open.
+******************** sentence ********************
+Emma did not pass by the ball to Janie although she was open.
+-----------   begin motion construction  -----------
+action:pass
+ground:by/the ball;to/Janie
+agent:
+figure:Emma
+source:['unknown']
+goal:['Janie']
+via:['a new point near from the ball']
+path:['unknown']
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I put the butterfly wing on the table and it broke.
+******************** sentence ********************
+I put the butterfly wing on the table and it broke.
+-----------   begin motion construction  -----------
+action:put
+ground:on/the table
+agent:I
+figure:the butterfly wing
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+
+begin a WSC example........................................
+I put the heavy book on the table and it broke.
+******************** sentence ********************
+I put the heavy book on the table and it broke.
+-----------   begin motion construction  -----------
+action:put
+ground:on/the table
+agent:I
+figure:the heavy book
+source:[]
+goal:[]
+via:[]
+path:[]
+toward:[]
+away from:[]
+-----------    end motion construction   -----------
+...........................................................
+
+
+

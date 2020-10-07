@@ -1,0 +1,21 @@
+{
+'into':{'source':'exterior', 'via':'portal', 'goal':'interior','path':'unknown', 'geometry':'container'},
+'in':{'source':'exterior', 'via':'portal', 'goal':'interior','path':'unknown', 'geometry':'container'},
+'inside':{'source':'exterior', 'via':'portal', 'goal':'interior', 'path':'unknown','geometry':'container'},
+'out of':{'source':'interior', 'via':'portal', 'goal':'exterior','path':'unknown', 'geometry':'container' },
+'out':{'source':'interior', 'via':'portal', 'goal':'exterior','path':'unknown', 'geometry':'container' },
+'onto':{'source':'unknown', 'via':'unknown', 'goal':'surface', 'path':'unknown','geometry':'plane' },
+'on':{'source':'unknown', 'via':'unknown', 'goal':'surface', 'path':'unknown','geometry':'plane' },
+'to':{'source':'unknown', 'via':'unknown', 'goal':'self', 'path':'unknown','geometry':'point'},
+'from':{'source':'self', 'via':'unknown', 'goal':'unknown','path':'unknown', 'geometry':'point'},
+'through':{'source':'one side', 'via':'new point', 'goal':'the other side', 'path':'unknown','geometry':'unknown', 'position':'inside of'},
+'up':{'source':'lower place', 'via':'unknown', 'goal':'higher place','path':'unknown', 'geometry':'unknown'},
+'upon':{'source':'lower place', 'via':'unknown', 'goal':'higher place','path':'unknown', 'geometry':'unknown'},
+'down':{'source':'higher place', 'via':'unknown', 'goal':'lower place','path':'unknown', 'geometry':'plane'},
+'over':{'source':'unknown', 'via':'unknown', 'goal':'higher than','path':'unknown', 'geometry':'plane'},
+'by':{'source':'unknown', 'via':'new point', 'goal':'unknown','path':'unknown', 'geometry':'plane', 'position':'near from'},
+'along':{'source':'unknown', 'via':'new point', 'goal':'unknown', 'path':'line', 'geometry':'unknown', 'position':'insider of or near from'},
+'around':{'source':'unknown', 'via':'new point', 'goal':'unknown', 'path':'arc', 'geometry':'unknown', 'position':'near from'},
+'toward':{'source':'unknown', 'via':'unknown', 'goal':'unknown', 'path':'unknown', 'geometry':'unknown', 'position':'unknown', 'toward':'self', 'away from':'unknown'},
+'away from': {'source':'unknown', 'via':'unknown', 'goal':'unknown', 'path':'unknown', 'geometry':'unknown', 'position':'unknown','toward':'unknown', 'away from':'self'}
+}

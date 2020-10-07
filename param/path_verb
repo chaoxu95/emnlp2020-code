@@ -1,0 +1,14 @@
+{
+'reach': 'get to',
+'enter': 'get into',
+'exit': 'get out',
+'ascend': 'go up',
+'descend': 'go down',
+'cross': 'go across',
+'pass': 'pass by',
+'approach': 'come near',
+'depart': 'go away',
+'return': 'come back',
+'rise': 'go up',
+'follow': 'come after'
+}
